@@ -1,12 +1,252 @@
 {
-  "last_run_utc": "2026-09-26T20:01:05.122917+00:00",
-  "items_total": 911,
-  "items_added_this_run": 65,
+  "last_run_utc": "2026-09-26T22:38:51.400532+00:00",
+  "items_total": 904,
+  "items_added_this_run": 56,
   "items": [
+    {
+      "source": "Google News HR",
+      "title": "BKFC 94 live results: Darren Till vs. Yoel Romero round-by-round updates, highlights for today's fight - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEN5Z2YtZlhhVnVKaEM1ZDBwS29qaERKcGdTQ3JEYkc1N0xfVTk5eUVKMFVCQVh0cUstbElValpNam5BNEZSWVdTUXVSbGtXS1k1dWthdjg5Q1pjc282TU01YlY5SnlXdGtLdXFIZ2VSOTgyQnZuMVNWVlY0S1lJUVRvWHBhejBJYmd5MTRqN1dkVzE5SDBJNWltcy1kcXJHbngyd0xoNzlTV3BRRkhWRnEwdUFISFlBTGNVLVIwVGRhMzFnNW9HMDVLbEtIUDIyV29BeFNVRGxkSEt1RTdMd2xZeWo?oc=5",
+      "published_utc": "2026-09-26T22:28:57+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Bivši ukrajinski ministar obrane pokreće \"Vojsku robota\"",
+      "link": "https://www.index.hr/vijesti/clanak/bivsi-ukrajinski-ministar-obrane-pokrece-vojsku-robota/2839050.aspx",
+      "published_utc": "2026-09-26T22:09:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Dnevni horoskop za 27.9.: Škorpioni napokon prepoznaju nečiji interes, Vodenjake čeka zanimljiv susret",
+      "link": "https://www.tportal.hr/lifestyle/clanak/dnevni-horoskop-za-27-9-skorpioni-napokon-prepoznaju-neciji-interes-vodenjake-ceka-zanimljiv-susret-20260926",
+      "published_utc": "2026-09-26T22:00:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Šefovi diplomacije Rusije i Njemačke se sastali pa požalili",
+      "link": "https://www.index.hr/vijesti/clanak/sefovi-diplomacije-rusije-i-njemacke-se-sastali-pa-pozalili/2839049.aspx",
+      "published_utc": "2026-09-26T21:59:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Modrić: Neke stvari nisu bile dobre. Malo smo se raspali",
+      "link": "https://www.index.hr/sport/clanak/modric-neke-stvari-nisu-bile-dobre-malo-smo-se-raspali/2839048.aspx",
+      "published_utc": "2026-09-26T21:57:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Armada aktivirala topovski udar, šest ozlijeđenih. Troje je u bolnici",
+      "link": "https://www.index.hr/vijesti/clanak/armada-aktivirala-topovski-udar-sest-ozlijedjenih-troje-je-u-bolnici/2839047.aspx",
+      "published_utc": "2026-09-26T21:34:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Pobjeda Hrvatske u Pragu vrijedi puno više od tri boda. Evo zašto",
+      "link": "https://www.index.hr/sport/clanak/hrvatska-je-u-pragu-napravila-veliki-korak-prema-euru-2028-evo-kako/2839045.aspx",
+      "published_utc": "2026-09-26T21:30:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Tonči Huljić odabrao ju je prije nego što ju je uopće čuo: Jedan detalj zauvijek je promijenio život Jelene Rozge",
+      "link": "https://www.tportal.hr/showtime/clanak/tonci-huljic-odabrao-ju-je-prije-nego-sto-ju-je-uopce-cuo-jedan-detalj-zauvijek-je-promijenio-zivot-jelene-rozge-20260926",
+      "published_utc": "2026-09-26T21:28:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Not great, not terrible",
+      "link": "https://www.index.hr/sport/clanak/not-great-not-terrible/2839039.aspx",
+      "published_utc": "2026-09-26T21:25:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Bilić: Kovačić je krilo u sredini terena. Ne postoji igrač kojeg ne može proći",
+      "link": "https://www.index.hr/sport/clanak/bilic-kovacic-je-krilo-u-sredini-terena-ne-postoji-igrac-kojeg-ne-moze-proci/2839036.aspx",
+      "published_utc": "2026-09-26T21:23:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXVETWhHaVFMQlVkMnZ2alg5REZhdmlBT01qc0xHdlBlbjJOWV9DSlllOWxXT0N6RTYzRklKZlZvZ2pYZ002YjFQeHZYZUNkY2hmcWJvdjNSb0ZucE9wQ2hpZXlDUWJxVGNPTVZfWEJoQjhncTN3MU92SnNRV2J3QkV2dHVROUF0d0xTdEVOcjhOSTc5aHI3UmZLQXNlaEQ2dUFvTElja20tU0pEbExubnhMbzdGaFo1M25B?oc=5",
+      "published_utc": "2026-09-26T21:22:49+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Evo što je Bilić rekao nakon pobjede u povratničkoj utakmici na klupi Hrvatske",
+      "link": "https://www.tportal.hr/sport/clanak/evo-sto-je-bilic-rekao-nakon-pobjede-u-povratnickoj-utakmici-na-klupi-hrvatske-20260926",
+      "published_utc": "2026-09-26T21:21:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Mateo Kovačić se naklonio neuništivom kapetanu: 'Luka Modrić je čudo'",
+      "link": "https://www.tportal.hr/sport/clanak/mateo-kovacic-se-naklonio-neunistivom-kapetanu-luka-modric-je-cudo-foto-20260926",
+      "published_utc": "2026-09-26T21:17:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "'Za mene je on bio uvjerljivo najbolji igrač. Jako mi je drago i da je Bilić zvao njega...'",
+      "link": "https://www.tportal.hr/sport/clanak/za-mene-je-on-bio-uvjerljivo-najbolji-igrac-jako-mi-je-drago-i-da-je-bilic-zvao-njega-20260926",
+      "published_utc": "2026-09-26T21:12:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Kovačić: Bilić? Prvo se moram zahvaliti Daliću na svemu",
+      "link": "https://www.index.hr/sport/clanak/kovacic-bilic-prvo-se-moram-zahvaliti-dalicu-na-svemu/2839044.aspx",
+      "published_utc": "2026-09-26T21:10:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Zabio je za pobjedu protiv Češke pa poslao jasnu poruku: 'Danas sam podmirio dugove'",
+      "link": "https://www.tportal.hr/sport/clanak/zabio-je-za-pobjedu-protiv-ceske-pa-poslao-jasnu-poruku-danas-sam-podmirio-dugove-foto-20260926",
+      "published_utc": "2026-09-26T21:08:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Junak Hrvatske: Mislim da sam podmirio dugove",
+      "link": "https://www.index.hr/sport/clanak/junak-hrvatske-mislim-da-sam-podmirio-dugove/2839043.aspx",
+      "published_utc": "2026-09-26T21:02:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Ovo je čudesno: Modrić je opet bio igrač utakmice, pogledajte mu brojke",
+      "link": "https://www.tportal.hr/sport/clanak/ovo-je-cudesno-modric-je-opet-bio-igrac-utakmice-pogledajte-mu-brojke-20260926",
+      "published_utc": "2026-09-26T21:01:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "'Prerana euforija': Evo što pišu češki mediji nakon poraza od Hrvatske",
+      "link": "https://www.tportal.hr/sport/clanak/prerana-euforija-evo-sto-pisu-ceski-mediji-nakon-poraza-od-hrvatske-20260926",
+      "published_utc": "2026-09-26T20:59:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "VIDEO Hrvatska je primila gol za 2:2. Onda ju je spasio VAR",
+      "link": "https://www.index.hr/sport/clanak/var-spasio-hrvatsku-pogledajte-kako-je-ceskoj-ponisten-gol-u-zavrsnici/2839042.aspx",
+      "published_utc": "2026-09-26T20:53:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Zagrebačka špica ponudila jesensku modnu lekciju: Pogledajte izdanja koja su privukla pažnju",
+      "link": "https://www.tportal.hr/lifestyle/clanak/zagrebacka-spica-ponudila-jesensku-modnu-lekciju-pogledajte-izdanja-koja-su-privukla-paznju-foto-20260926",
+      "published_utc": "2026-09-26T20:53:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Španjolska u spektaklu pobijedila Englesku: Evo što to znači za Hrvatsku",
+      "link": "https://www.tportal.hr/sport/clanak/spanjolska-u-spektaklu-pobijedila-englesku-evo-sto-to-znaci-za-hrvatsku-20260926",
+      "published_utc": "2026-09-26T20:51:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Trump says he approved new fuel economy standards rolling back Biden-era rules - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SjFYLW50LXlpYTlGdXJVdTg4Y1l2MkRSNmtqUFVtdG95YjBySXB1ZXk4TjZ6SGs1NXdNV0ZMcjYzYUlfZTlCb25ldjlvd1JCMjdSUlh2alBnQVhnNW5UVzBzUnNnX0ZhcmJWY29ZSkxsYkVmaW9JeUR30gF_QVVfeXFMTVVfaktTbFNTRHZNamV4ekg3V05RZXFMNFViRnZ3NUN4TTZjZC1UN19Wb3VVTGh1NjFvZ1JCM1NQTDMtX0k5ZEZfY3VLYzZWdXhRVWRscjV6UTEtZ25oUTJtWFdMRFlZQ3VacUx3Mmp6Rl80TElGWDhwNmJIQm0xaw?oc=5",
+      "published_utc": "2026-09-26T20:50:06+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Španjolska u spektakularnoj utakmici pobijedila Englesku",
+      "link": "https://www.index.hr/sport/clanak/spanjolska-u-spektakularnoj-utakmici-pobijedila-englesku/2839040.aspx",
+      "published_utc": "2026-09-26T20:43:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Ovo su najveći kino-hitovi prvih devet mjeseci 2026.: Jedan je konkurenciju ostavio daleko iza sebe'",
+      "link": "https://www.tportal.hr/showtime/clanak/ovo-su-najveci-kino-hitovi-prvih-devet-mjeseci-2026-jedan-je-konkurenciju-ostavio-daleko-iza-sebe-20260926",
+      "published_utc": "2026-09-26T20:43:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "ANKETA Ocijenite igrače Hrvatske u pobjedi nad Češkom",
+      "link": "https://www.index.hr/sport/clanak/anketa-ocijenite-igrace-hrvatske-u-pobjedi-nad-ceskom/2839038.aspx",
+      "published_utc": "2026-09-26T20:41:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "VIDEO Hrvatska pobjedom protiv Češke krenula u Ligu nacija i Bilićev drugi mandat",
+      "link": "https://www.index.hr/sport/clanak/video-hrvatska-pobjedom-protiv-ceske-krenula-u-ligu-nacija-i-bilicev-drugi-mandat/2838885.aspx",
+      "published_utc": "2026-09-26T20:39:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Evo zašto je Liga nacija toliko važna i zašto je ovo ogromna pobjeda Hrvatske",
+      "link": "https://www.tportal.hr/sport/clanak/evo-zasto-je-liga-nacija-toliko-vazna-i-zasto-je-ovo-ogromna-pobjeda-hrvatske-20260926",
+      "published_utc": "2026-09-26T20:39:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Ocijenite hrvatske reprezentativce i Bilića u pobjedi protiv Češke",
+      "link": "https://www.tportal.hr/sport/clanak/ocijenite-hrvatske-reprezentativce-i-bilica-u-pobjedi-protiv-ceske-20260926",
+      "published_utc": "2026-09-26T20:39:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Bangkok proglasio stanje katastrofe: Ulice pod vodom, stanovnicima stiglo upozorenje",
+      "link": "https://www.tportal.hr/vijesti/clanak/bangkok-proglasio-stanje-katastrofe-ulice-pod-vodom-stanovnicima-stiglo-upozorenje-20260926",
+      "published_utc": "2026-09-26T20:36:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Akcija vrijedna pobjede: Pogledajte gol Pašalića za 2:1 Hrvatske",
+      "link": "https://www.tportal.hr/sport/clanak/akcija-vrijedna-pobjede-pogledajte-gol-pasalica-za-2-1-hrvatske-20260926",
+      "published_utc": "2026-09-26T20:32:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Bivša premijerka u subotnjoj kupovini privukla pažnju: Jedan detalj na njezinom izdanju odmah upada u oči",
+      "link": "https://www.tportal.hr/lifestyle/clanak/bivsa-premijerka-u-subotnjoj-kupovini-privukla-paznju-jedan-detalj-na-njezinom-izdanju-odmah-upada-u-oci-20260926",
+      "published_utc": "2026-09-26T20:29:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "SAD i Kina postigle veliki dogovor o carinama, evo što su dogovorile o AI-ju",
+      "link": "https://www.index.hr/vijesti/clanak/sad-i-kina-postigle-veliki-dogovor-o-carinama-evo-sto-su-dogovorile-o-aiju/2839037.aspx",
+      "published_utc": "2026-09-26T20:28:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Trump i Xi povukli važan potez: Washington i Peking otvaraju novo poglavlje",
+      "link": "https://www.tportal.hr/vijesti/clanak/trump-i-xi-povukli-vazan-potez-washington-i-peking-otvaraju-novo-poglavlje-20260926",
+      "published_utc": "2026-09-26T20:26:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Studenti stigli u Kragujevac. Vučićevci zapalili baklje, skandirali Mladiću i Vučiću",
+      "link": "https://www.index.hr/vijesti/clanak/studenti-stigli-u-kragujevac-vucicevci-zapalili-baklje-skandirali-mladicu-i-vucicu/2839031.aspx",
+      "published_utc": "2026-09-26T20:21:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "'Balkanskom kauboju' Dragane Jurišić glavna nagrada festivala u Širokom Brijegu",
+      "link": "https://www.tportal.hr/kultura/clanak/balkanskom-kauboju-dragane-jurisic-glavna-nagrada-festivala-u-sirokom-brijegu-20260926",
+      "published_utc": "2026-09-26T20:20:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Vrijeme donosi promjenu koja će mnoge razveseliti: Evo što nas čeka idućih dana",
+      "link": "https://www.tportal.hr/vijesti/clanak/vrijeme-donosi-promjenu-koja-ce-mnoge-razveseliti-evo-sto-nas-ceka-iducih-dana-20260926",
+      "published_utc": "2026-09-26T20:18:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Kina i SAD dogovorile dijalog o AI-u i smanjenje carina na 30 milijardi dolara robe",
+      "link": "https://n1info.hr/svijet/kina-i-sad-dogovorile-dijalog-o-ai-u-i-smanjenje-carina-na-30-milijardi-dolara-robe/",
+      "published_utc": "2026-09-26T20:14:23+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable' - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFFIUk9GUUctYjB3UzR4VmZGTTU0S2VKSm5paEYtbHNZSFAtSXl6TlgwRWxfREkyOXpkbTNTd0lyeTdfTW5kMlhnQmVhWUo0YnZydlRCVGFrVlZVellxTFlidFFTS2FiS3piUW8yVFlmVjVuN2FuWWR4bjB2ZDltWVpJTmFuVURhNXdaXzZHMDY2QQ?oc=5",
+      "published_utc": "2026-09-26T20:08:28+00:00"
+    },
     {
       "source": "Tportal",
       "title": "Nestvarni Modrić i u 41. godini zabija za Hrvatsku: Pogledajte novu majstoriju kapetana",
       "link": "https://www.tportal.hr/sport/clanak/nestvarni-modric-i-u-41-godini-zabija-za-hrvatsku-pogledajte-novu-majstoriju-kapetana-20260926",
+      "published_utc": "2026-09-26T19:58:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Alabama teens getting their own version of TikTok under sweeping $100M deal - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUJORGFmODB0QUFNdlg4OG9KVlFXYVBWMzVpbFFJY3hQSDNoNHd4TExKdDNMcEZHa29ETHc3R0tQVmQwSFJuWmN2eHpMMnZ3djhSSUNrNmE2a1k5VkJJWHVydjVCU0JwTFZwZV9GZmVrd3JFNHpFNUlqWWNlSlY4WjJMTmtRYzhsSUlYeUNOZHRjaW9iemhTUjFWOHRWNmxQUm5Mb9IBqgFBVV95cUxQTzF4a3hhek00SXRrSHZ0Y3ZhOW90TjFQT2MzOXZ0amVOV0xYNGZYQWd6UVl0NWp4dW9QZzlvMWVpQk5KYzRCQ0ZDZHVPa1UweFBuaDZiQWpVNTVjUU0zaXJLZV9nN3VocHdDSW56MVhZWTUwNlM1NTlDX2xtc1dkTElqbHNudkdkSVNya2xzdE9lMGp3MTc5VC0tcFpPbkJQQXRIV0g2Qmdndw?oc=5",
       "published_utc": "2026-09-26T19:58:00+00:00"
     },
     {
@@ -16,10 +256,28 @@
       "published_utc": "2026-09-26T19:57:26+00:00"
     },
     {
+      "source": "Index.hr Sport",
+      "title": "VIDEO Modrić protiv Češke zabio 30. gol za reprezentaciju",
+      "link": "https://www.index.hr/sport/clanak/video-modric-protiv-ceske-zabio-30-gol-za-reprezentaciju/2839035.aspx",
+      "published_utc": "2026-09-26T19:57:00+00:00"
+    },
+    {
       "source": "Tportal",
       "title": "Haris Džinović bez zadrške o braku s bivšom suprugom: 'Ne bih ga ponovio'",
       "link": "https://www.tportal.hr/showtime/clanak/haris-dzinovic-bez-zadrske-o-braku-s-bivsom-suprugom-ne-bih-ga-ponovio-20260926",
       "published_utc": "2026-09-26T19:56:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "No. 1 Texas escapes Tennessee with thrilling SEC victory as President Trump watches on from Neyland Stadium - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVUzWXRvbzhXTzZtVmNqYnM3YWVkWnpNVE55b3lSU0o3eVI5b3Z6QnBKbXc0VGNBVHQ3MjRweWQtWVFOVEpGeWdoamR4YWVuUlJKQVp4WlRreW1Ma0tCa0U4ZXQ3ZU9TNy1acUExa0xKNzMyaFhhNjhveC05U0s3bVJkVDUxWHVEX2RqVjR3MkpsWDlnSTFuRnNuNHlNUjZJMmRZeGpjdGVUYlJFV1lBT0l3OG51Ukk?oc=5",
+      "published_utc": "2026-09-26T19:53:25+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Kreilach odigrao posljednju utakmicu u karijeri. Kantrida ga ispratila ovacijama",
+      "link": "https://www.index.hr/sport/clanak/kreilach-odigrao-posljednju-utakmicu-u-karijeri-kantrida-ga-ispratila-ovacijama/2839034.aspx",
+      "published_utc": "2026-09-26T19:53:00+00:00"
     },
     {
       "source": "Index.hr",
@@ -62,6 +320,12 @@
       "title": "Djeca u Hrvatskoj će zbog debljine živjeti tri i pol godine kraće nego mi",
       "link": "https://www.index.hr/vijesti/clanak/djeca-u-hrvatskoj-ce-zbog-debljine-zivjeti-tri-i-pol-godine-krace-nego-mi/2835106.aspx",
       "published_utc": "2026-09-26T19:43:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
+      "published_utc": "2026-09-26T19:41:46+00:00"
     },
     {
       "source": "Index.hr",
@@ -142,6 +406,12 @@
       "published_utc": "2026-09-26T19:17:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "White House bars CNN from travelling with Trump on Air Force One - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zdk5yVlpvUFEtS2FCaERCUjZYNUdiUkdTYVIwZVZPblc2bS1QQ2FQaHVQcnlQUVcxN1lZOE1qbURLNk1GNGZkTE1GYlFIaVhlYmFqVW1rMjY5cGs?oc=5",
+      "published_utc": "2026-09-26T19:16:14+00:00"
+    },
+    {
       "source": "Tportal",
       "title": "Jeste li ih primijetili? Hrvatski navijači unatoč zabrani na tribinama u Pragu",
       "link": "https://www.tportal.hr/sport/clanak/jeste-li-ih-primijetili-hrvatski-navijaci-unatoc-zabrani-na-tribinama-u-pragu-20260926",
@@ -158,6 +428,12 @@
       "title": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
       "published_utc": "2026-09-26T19:12:26+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Carrot Top released from hospital after suicide attempt, rep says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzFOV1dtQVZiR1hROVRVd294MWNLbnRCdUhJeGZzankyYU5GTDhpeW1KRXh0R0VuU2luRGZLMHBraElDVXZHeGVuTDU0RlNBeG1pdFZMMHhkR3Bnbm9jZXlnTVdwNjludmhNbVUwM3VVbkx5ODNYY0ZCenZ0aXltYlQ3SGdsZ1hDMThUMG5xeGxWa21MMkgzRFpyT2o4N05RWGphag?oc=5",
+      "published_utc": "2026-09-26T19:10:22+00:00"
     },
     {
       "source": "Tportal",
@@ -184,6 +460,12 @@
       "published_utc": "2026-09-26T19:03:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "German and Russian foreign ministers meet for first time in over four years - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzR5R0xyY3pnbWZxMU5HcnZNZmdscmJMcmV0ZFc4Z3k1Y2dNdlNraGczd1FBbEwtdXM0cUxLOTB0MkZzWGpxMlo2dl9TVmdTWUQzcVBnUkx0S0ZIS3BQU3VGczgxUTZKM1JFYTk3UGtraWZhU2xfeGdOaHItT2FFUHRLX2I?oc=5",
+      "published_utc": "2026-09-26T19:01:46+00:00"
+    },
+    {
       "source": "N1 Hrvatska",
       "title": "Oglasili se arhitekti koji će graditi novi stadion Maksimir: \"Kritike će biti ključne za daljnji razvoj\"",
       "link": "https://n1info.hr/vijesti/oglasili-se-arhitekti-koji-ce-graditi-novi-stadion-maksimir-kritike-ce-biti-kljucne-za-daljnji-razvoj/",
@@ -208,6 +490,12 @@
       "published_utc": "2026-09-26T18:57:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Bodies of 6 people, including 4 Americans, recovered from collapsed building in Athens - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVptWlV6Z0s4cU5Cdlc1RmV2NjJMXzBOcTJZczMtQldYdEt6R2lqSk9wVlE4QktpWmZyYkV5c29JY1ozcmx4TDdpenpaaHh0QTZfZ0gwRUp3YVRuRlJBOFRhaTlmRkpua21NdkpRZUlWV2RXaXhaMTRpUnQ3V214Yy16YUZvTTVsa1BTSGxyeXA0ZmR6XzdBeDQ3bmdBcEN0bEgtemd0ZFjSAa4BQVVfeXFMTzg3N2drUzZER29Tc3RjRXFlMDNXVHBXQWFLVnhFWnlSU2hMeHhibEQzMVZXMjNWTGpBRXlJbDYzOFM5dFR5Zy13YnVYN2JWWEl4V2dMWHE1Tm5LakZ5eXBjX1NiMkpCcWFZcFRpcEpFV2N3SFJsZ004T2Y4aTRiWV9BQW5yZlRxd0tuM2czV2pFSGd4S0N2RjVNWWRkM0JzTWM1R2pORndBUE5ZYVd3?oc=5",
+      "published_utc": "2026-09-26T18:56:54+00:00"
+    },
+    {
       "source": "Tportal",
       "title": "Dacia priprema hit električni gradski auto: Cijena će vas oduševiti",
       "link": "https://www.tportal.hr/autozona/clanak/dacia-priprema-hit-elektricni-gradski-auto-cijena-ce-vas-oduseviti-20260926",
@@ -224,6 +512,12 @@
       "title": "Ovaj Audi je postavio novi svjetski rekord",
       "link": "https://www.tportal.hr/autozona/clanak/ovaj-audi-je-postavio-novi-svjetski-rekord-20260926",
       "published_utc": "2026-09-26T18:44:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3h4cVlNQUljeXBUNmJkWnRINEl3MzhiQjZIa0pYM0VuMHZQV2Jvb0FCWnQwcGprZTJ3dDFZb1BOaEpVQUpIUnFmZUdJZnVweGVZSjNNcE84S3Z5U2RhMGNjbmZIQ0tWTHkyUlRVQmhDNmttYmo1RVRuSFNCdkJCa3VFTC0?oc=5",
+      "published_utc": "2026-09-26T18:42:28+00:00"
     },
     {
       "source": "Index.hr",
@@ -308,6 +602,18 @@
       "title": "Hrvatska U-21 reprezentacija izborila plasman na Europsko prvenstvo",
       "link": "https://www.index.hr/sport/clanak/hrvatska-u21-reprezentacija-izborila-plasman-na-europsko-prvenstvo/2839012.aspx",
       "published_utc": "2026-09-26T17:53:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Oa0VLblJXSGRjc1FqLU51WEFkaURmRU85R0hnM253cHhjUHotSXExb3dMYlBhQjNoZXZnUHZ0T05sQWNxdHo3MlluT0MzeVp3UGR5SWxnMW1Pa3c?oc=5",
+      "published_utc": "2026-09-26T17:47:09+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXdzdk1tVklDVmZCZkd4S2F2ZHJ2ZjRXV0p0SkVlQ3JKejhlalJZYlZCdm5zaHhNenJfMjVUZ1ktM1UwdG9makpTeGF0RWhCLXo2QjcxVml4elo5Ry05U1lWRDczZ0gtM1pENnhyM001UkNMYjZIOWJEcS1GSmduckwzbGNnLTRPazZGcmtZNW5tc0hvOXc?oc=5",
+      "published_utc": "2026-09-26T17:44:00+00:00"
     },
     {
       "source": "Index.hr",
@@ -460,6 +766,12 @@
       "published_utc": "2026-09-26T16:31:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Russia expected to intensify hybrid war on Europe - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUxrNzFJLThfQU82Uk82Q0pZbWxYa2ZQYXBieHRXdTQ1aERQVVZZdkh6V3JCU0dReUYtZ2Y4bVBXN2d5RjlmallvN0duSENPR0pQNmlfMTl4YlZaeWk5aE9pZ3l2OHN5UDdlS1V2bGhPV05tdGk0dnFMbzBhNmVwNlhKZmw1T1pVN0HSAYoBQVVfeXFMTlFnMjI4Qy1IdEdUaVV3cVlaY2RXU0VHT00tVjc3R0xHTjlqMmgwNGNSNkhmZER6OEpRZHIyOFI0UjRXY0o0M1JZNHd6VVB3ZUdhc0tKX1k0UjZQTXFjZ0ZjbGk0NHlfcmdtWkJaXzRwam15a3YtbzhyWnNwdUhxTzdxLTdraGZyMVln?oc=5",
+      "published_utc": "2026-09-26T16:30:19+00:00"
+    },
+    {
       "source": "N1 Hrvatska",
       "title": "Kod Senja pao motorni zmaj, dvije osobe završile u bolnici",
       "link": "https://n1info.hr/crna-kronika/kod-senja-pao-motorni-zmaj-dvije-osobe-zavrsile-u-bolnici/",
@@ -596,6 +908,12 @@
       "title": "Protuprosvjednici u Puli blokirali Hod za život. Sjeli na cestu i zaustavili povorku",
       "link": "https://www.index.hr/vijesti/clanak/protuprosvjednici-u-puli-blokirali-hod-za-zivot-sjeli-na-cestu-i-zaustavili-povorku/2838988.aspx",
       "published_utc": "2026-09-26T15:50:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnJGNFpjblFqU3p0UmxhSHg5eDRkblZ5MnlsalJCWmduY0FkZThPY3I2WlZwWHhRdHdJVVpHLUNrdEsxLUN2eUkyTS1QcE5acS1Gak1XOWJFbS1nVnp2Rk5PVjBvZVNyZWRxRnJnN2FueldOSF9qblRPRGd6TGZKcFVQQzVLT3VLN0dpUEliTEI4dW9FNVVZWnFpS1NCVUZWa2dNVE1XQdIBrAFBVV95cUxNWkpaQkxoTVJDSUdxT2pUeE96Sy04R1U4SnBMcXZuTU5XUHEzTERKWmd4djRGTGt5bzR1cFdUUk54VG5NQ0syZjM1UWRrMUJKeGRXUERYaHV0YUp5Y3ByNktYWEkwSzMyZXllVFFQcDdyVVA4WnpRYlhVT09odDNpRFY1Tnlwd1FZY3lmSmJHbFFXc2Iwa2pjaHdCU3owbFZneVhKVkE2VXRWeFhu?oc=5",
+      "published_utc": "2026-09-26T15:41:14+00:00"
     },
     {
       "source": "Tportal",
@@ -865,6 +1183,12 @@
       "source": "Index.hr Sport",
       "title": "Salah napustio utakmicu Egipta? Savez: Nema sukoba, neće igrati zbog umjetne trave",
       "link": "https://www.index.hr/sport/clanak/salah-napustio-utakmicu-egipta-savez-nema-sukoba-nece-igrati-zbog-umjetne-trave/2838960.aspx",
+      "published_utc": "2026-09-26T14:00:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGNLaUpob1NNVjhYR2hzaGZWM3ZKN2tieEJUdkZRQzVhYmZSUXdJNThIVVJjNkZRaVl0T19XZURnSWozZUNzM1A2YXNlMFh5VGc2MG5XZTVUNDFyZWZXVmx1ZW8wS29YazM4Yl96SjhkNnF4X2M1aFR6WW0yU0d4MDh2ZlJzMjVsN3lSWklJb1NmdW5nM283SXdCOHpEcGdHU1VnRU8xUHpnelE?oc=5",
       "published_utc": "2026-09-26T14:00:00+00:00"
     },
     {
@@ -3064,6 +3388,12 @@
       "published_utc": "2026-09-25T16:40:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Spacecraft returns to Earth after rescue mission for ageing Nasa telescope fails - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTTBXSE5TenBCeERGWldXZUNYYjQ0NkdsLUtfNzVjTFhmcTJQYnpELTd0azJrdnNJMHV1Yk5Xb0N5UzRUYTFYMzdVMnpDZ3J1dm1XVlRCeTZrOWhxcndQMHZvM19oR2MxaWxpZTgzSW55ZzFBamE5OW0xZ0dCRm50NkM4Qi0xZHRuOGtr?oc=5",
+      "published_utc": "2026-09-25T16:39:00+00:00"
+    },
+    {
       "source": "N1 Hrvatska",
       "title": "Ružić i udruge o borbi protiv nasilja nad ženama",
       "link": "https://n1info.hr/vijesti/ruzic-i-udruge-o-borbi-protiv-nasilja-nad-zenama/",
@@ -3926,6 +4256,12 @@
       "title": "Grmoja: HDZ i Možemo su bratske stranke",
       "link": "https://www.index.hr/vijesti/clanak/grmoja-hdz-i-mozemo-su-bratske-stranke/2838704.aspx",
       "published_utc": "2026-09-25T12:04:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmtsdjBpYnlCdndrY1lOeUNQT3h2U211ZVNJa2RZTzkyZzNXUXpYYTMtb21YQkItZ05aUk1sV3MzajJpN2h2R3hsbmpaV2gyNWtoYWtLVjNsSlRiME1VVTNFcm9uREJXcmJUd1pGb3dnQnZyWkdXcXcyQTVYQTJBTVJ2Wkg1MHc?oc=5",
+      "published_utc": "2026-09-25T12:00:00+00:00"
     },
     {
       "source": "N1 Hrvatska",
@@ -5090,384 +5426,6 @@
       "title": "Macklemore announces Free Palestine tour to benefit humanitarian aid organisations - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlBSSVZENWVfSVFCWVR6em1xZnllR2JMNmRRZl8tRzZpck9BcjVlbDNkX252STFHcU9OZlNrQTVwMEdrZWVsVk1OQ01rRTEzSHNLOHdnQm1MWHhqMFFHUndXZ25USUJ2UE1HMGNrTHBYQ0ZtU3BoaTMtSTE2cDJOZmdRMXB0TWxZYU9OS0pyZjY?oc=5",
       "published_utc": "2026-09-24T22:43:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "U.S. Intercedes for Elon Musk’s X Over European Fine - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeV9fdkhEYW1GZ0RLTllWY0dDN0FZTURySnIzMmV1cFpyZVhDdTVvdFJGTmtHS1NHeGlYckpIZW1BTWswazgxeEw1X0lXZVNtQmJBUHNYRW5kMU04Xzh6VzRtT1JHQXFIdTFYdDBqcE5zMi1feTJEcU91N2tiUEN4dXVHTQ?oc=5",
-      "published_utc": "2026-09-24T22:34:49+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45% - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFhnLWRNOTF2c1JOTk4tWllJNmQ5N1FuSl9yVGVkWnNnaUI1VldxdkJGQmhzaDFYcGwxQnN6TWtBbkwwcTFkQUc1S0prLS1lODE5VUpneEY5dXZ3aTR4elNjVF9hc1UxTkVBWm1hMGdSWjR6Nkc0Mjd5S09qV1BlQ0FOMUViYlVHbUh3Q2lFU29QemVDWWQ5akp0bjRnZFE50gGmAUFVX3lxTFA3bnVmM1ZRTkFsSDA3X08tQkY4QmE0OExlaGxibG0yZElLbHZOdWQ1NkNVZ0RhUmVEY1ZkbFFTWVplX2JvNTUtN3k3RGtnWm9fbkE3TklCMjJCM0M1Z3kwYXo1NDBfZjI3LVNkTG1vVWVEQ2daLVJyTktyN0lfSEMwSFo3UWdkLV9uZUZNWDZkb2pEb3R1V3VFYlJNemI0S3FrbDRYMVE?oc=5",
-      "published_utc": "2026-09-24T22:29:19+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Presidents Cup: Scottie Scheffler, Sam Burns sneak through tough opening round as U.S. takes early lead at Medinah - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObGZzLTJnZlN3UDJ0eVJKTmxJS1ZzY2ZIN3QybF9fVkg3bkdJclZGUjkxLXRmcmFYVjdiN3RwNmVOaVJUWktmNFN2Q3VQSHNyb3UtcDd2UHZXNGU4M0dnQTZMZi1DTk9HOV9tY2pWblYwSllPMVRHUy1RM1RTcVd4MDV3azlmUTZfQXh2NC1tdEFGYk00UG10b3NRVVRFRFNEWUlUOFFvUGpOX09zYUJpMFdkd1ZubnZLVk9JYkozMjNES1drQTdQTEM4c0J4MzhmQk1EaFl2RXVhV3g2R2ZWZkhHTk9hNjRnT0ZMWmZfTVNxdHBRbGdVMlZ3eUFkbkFSZm1kUmtzd2Y?oc=5",
-      "published_utc": "2026-09-24T22:24:35+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Chicago Cubs clinch second straight MLB playoff berth with win over Marlins - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTBzNHdJZTY3S2ozMGU3cXZYZGNzZXdxcjh4azA5aEJZeTJ1cUJkendDaWJIMmpWRFFVcm5xXzdOTWJVWnM2T2hIa1phZVZ3VXdQRksyd0dFVG9jR3o3ZU1MVE51OGYxeXBnM25abWlFaWRfOUJfXzNXdVFiSmVab05XdXV5YWs1NDVfd1A3RnRNaDN2T3F4SlBIZkFUbmNXRnJOLTRQN0kyYm9acGZOaC1yQTFXUUFjWktsY24tOEFvV1NFeFE?oc=5",
-      "published_utc": "2026-09-24T22:21:04+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjB4NnBQUWFldEg0MzJSZldEYXBFUGFMTFBrbDFHRVJRMHZpbzVlR0NzVWhuLTduTVhfQUFSYkNvMVNCY1pCcU1WMEw2R1U5d2tYdFQ5YldYOVNZRjF3bF83aVZQUFYwNmVnWjc5OU84ZGdXZ19DVjh1M0hCOWFEU0QyeE9pckJ3YW5feFVFWUlrZ281NFN5Z21MSDJhMEE1djUybWF3VG9VX2FRakU1Yg?oc=5",
-      "published_utc": "2026-09-24T22:20:16+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Predsjednik Finske: Starlink bi Ukrajini omogućio napade na ruske lansere",
-      "link": "https://www.index.hr/vijesti/clanak/predsjednik-finske-starlink-bi-ukrajini-omogucio-napade-na-ruske-lansere/2838509.aspx",
-      "published_utc": "2026-09-24T22:16:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Sabor u petak glasa o zabrani isključenja električne energije ugroženim kupcima",
-      "link": "https://www.index.hr/vijesti/clanak/sabor-u-petak-glasa-o-zabrani-iskljucenja-elektricne-energije-ugrozenim-kupcima/2838508.aspx",
-      "published_utc": "2026-09-24T22:14:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Ružić: Osobni asistenti moraju biti jednako plaćeni bez obzira na poslodavca",
-      "link": "https://www.index.hr/vijesti/clanak/ruzic-osobni-asistenti-moraju-biti-jednako-placeni-bez-obzira-na-poslodavca/2838507.aspx",
-      "published_utc": "2026-09-24T22:11:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
-      "published_utc": "2026-09-24T22:03:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Dnevni horoskop za 25.9.: Jarci napokon povlače važan potez, Vage dobivaju neočekivanu poruku",
-      "link": "https://www.tportal.hr/lifestyle/clanak/dnevni-horoskop-za-25-9-jarci-napokon-povlace-vazan-potez-vage-dobivaju-neocekivanu-poruku-20260921",
-      "published_utc": "2026-09-24T22:00:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Cubs 2, Marlins 1: Pete Crow-Armstrong gets to 40/40, and the postseason ticket is punched - Bleed Cubbie Blue",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3RnV3Rab3ItSHNlSjlHU1VHb0VGY0tRMzE5SG93UDJDY0l3c04wNkFRTkxkbDJ2N0ZORzZQeURJaVhCbHpmeVdCMHRCM0Ytc09GX2NybzVXUlMtODRHTjdiSGNEaks3WjdVNTRwNVE0WUIxSnNJS1NsLU5Fd3hEQ2lTZzVvRnZIUHJ6bnJwdjBnVEJaSFFnZTV1NzU3WDVxV2FoVDFob1EtYmR0RVlwRWZpcGs?oc=5",
-      "published_utc": "2026-09-24T21:55:02+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Kristina Zadro Omrčen ponovno predložena za zamjenicu tajnika Hrvatskog sabora",
-      "link": "https://www.index.hr/vijesti/clanak/kristina-zadro-omrcen-ponovno-predlozena-za-zamjenicu-tajnika-hrvatskog-sabora/2838505.aspx",
-      "published_utc": "2026-09-24T21:53:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Preminuo Bob Pettit, legenda NBA lige",
-      "link": "https://www.index.hr/sport/clanak/preminuo-bob-pettit-legenda-nba-lige/2838506.aspx",
-      "published_utc": "2026-09-24T21:52:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Atlanta junior among 2 Ole Miss students found dead in Mississippi - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVHlTdS1zZlNBVGdWSmpiNUQwS3ZJVFF2aG83LW44STQ3cEhqLWpPR3QzNTdGTXZ3TE1lbDY3VzA3bkd6VVJhai1pbENoQXpnQ1Q3X3ltUkFuZGRPdXAwZmRHT0V4NU1Kc2UzTU1pQVJtV0ZCeXVGLWRsTTdvcDRPRUU5c09QaEpNVnJ5ZWVWcnNHbkFnZjlQMktPZ1J4MHlLbWpLeDlUZEoyT3ZJbWhvRm5SWVlxTHJHaVFLdm9BellmRVNMa2N6VXo0TFbSAeABQVVfeXFMTjdSOHV2VTdEQndMdHJUYmZTWmc1d2pVci16ZlUyaDFoM0V2dzFFUk4wemM3RkFwUnhCNTdiOVFTRFVja0hlSU9mRUJOWi1zalhfNmIwQ2FuU1U0WlB0R1N5blpLNmplY3BNRHdobVdqUVh3U29XeEhjWnczV0RUamFXZ0doMzF0TTZ6clh1M0p6Wkg3VFBRTXdaOEFwaEpzSm9xUU9sbUVnV2dVR2I1alVOM196ZDRobTlLdU5hcHdiTjV1ckMxcF9wdHByaGg3U2Iybkk1RFF4VklTZUZkeTM?oc=5",
-      "published_utc": "2026-09-24T21:46:14+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Novi debakl Srbije: Srpski mediji u šoku nakon potopa na Marakani, pogledajte njihove naslove",
-      "link": "https://www.tportal.hr/sport/clanak/novi-debakl-srbije-srpski-mediji-u-soku-nakon-potopa-na-marakani-pogledajte-njihove-naslove-20260924",
-      "published_utc": "2026-09-24T21:41:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Global release announced for acclaimed Gaza documentary NAZA - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUljdC1VOEwyWVZ5RkNjMWhNLV9WTzhQbVZnZG5fVWoyRUM3ZEEwMTg2NVk2dFBKSVN6OUU1V1Q5dlR3bzdQUjNkQ2h0Q3hjYVpjb25sWWxHZDBMTTV3c1lzckRtaHlnSlpobm55Uzd4eWlqOFNSMExfblA1cU5QcnRya2RQUXdUOUFRek9GaW1JeFhLUUtUbWRyQUFRVmRqRTVCeWkxb2s?oc=5",
-      "published_utc": "2026-09-24T21:39:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Exclusive | MGM Resorts Eyeing Bid for Barry Diller’s People Incorporated - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWNGTmstTVNqZ25EZmNTNzIxUnBlY0VmZGlYbnJNQ01oQlNrWVRNcFdSQm9URF9xNW9zcjItczZvSF9PRDVGeklZQ0QtUm5TRHNaSVdzSXphVFBLaWZoeG1MQUd2OTQ2SmFUd01sZE5NTGpPbUJxb2VDZnphU0ZVSTA3amRVblJiVkZNcHc3Q3JhQmFBUDZ4MTNZRTYteEVNdG5lNl9BaEhncXRmVWt3?oc=5",
-      "published_utc": "2026-09-24T21:38:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "VIDEO Dario Šarić odličnom se utakmicom vratio u Euroligu",
-      "link": "https://www.index.hr/sport/clanak/dario-saric-odlicnom-se-utakmicom-vratio-u-euroligu/2838503.aspx",
-      "published_utc": "2026-09-24T21:37:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Amerikanka stavila dijete u pećnicu umjesto u krevetić, umrlo je. Doznala je kaznu",
-      "link": "https://www.index.hr/vijesti/clanak/amerikanka-stavila-dijete-u-pecnicu-umjesto-u-krevetic-umrlo-je-doznala-je-kaznu/2838504.aspx",
-      "published_utc": "2026-09-24T21:35:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Tko je zakazao u sustavu socijalne skrbi? Propusti u Slatini i Zadru otvorili pitanje odgovornosti",
-      "link": "https://www.tportal.hr/vijesti/clanak/nino-zganec-ministarstvo-i-inspekcija-su-se-grubo-obracunali-s-najslabijima-u-sustavu-20260924",
-      "published_utc": "2026-09-24T21:35:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Stubb pozvao Muska da uključi Starlink u Rusiji, pojasnio kako bi to pomoglo Ukrajini",
-      "link": "https://www.tportal.hr/tehno/clanak/finski-predsjednik-pozvao-muska-da-ukljuci-starlink-u-rusiji-pomoglo-bi-u-spasavanju-zivota-20260924",
-      "published_utc": "2026-09-24T21:34:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "3 US news outlets return to White House after judge orders Trump to lift ban - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
-      "published_utc": "2026-09-24T21:29:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Netherlands 1-1 Germany (Sep 24, 2026) Game Analysis - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XRGYxNkoyalJ4XzZVcVJ2aEVuVHlmbm5rWnZRdzJ0YUl5R0lpbzhuTEgtMmFlS3R5SDdtdlRsZjJBa3RyVTJPQUdhVmJBbGZkSHRXbFFGbmVrVnRCTlRaLUllYw?oc=5",
-      "published_utc": "2026-09-24T21:26:56+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Trump govori o prijateljstvu, Xi o povijesnoj odgovornosti: 'Mora ostati pod ljudskim nadzorom'",
-      "link": "https://www.tportal.hr/tehno/clanak/trump-govori-o-prijateljstvu-xi-o-povijesnoj-odgovornosti-mora-ostati-pod-ljudskim-nadzorom-20260924",
-      "published_utc": "2026-09-24T21:18:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
-      "published_utc": "2026-09-24T21:17:08+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Iranski predsjednik: Ne pokušavamo ubiti Trumpa",
-      "link": "https://www.index.hr/vijesti/clanak/iranski-predsjednik-ne-pokusavamo-ubiti-trumpa/2838502.aspx",
-      "published_utc": "2026-09-24T21:11:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySEh2UG50RGxCa2FsLVVBYUhuZVpRcXFPaUhqS2FDTHNkOFJrOElmVnl1MVR4cjVwekpSTHNMb2NnV0Nzb21HcEMzenI2ekEwc2hkdDVXT0xnV1k?oc=5",
-      "published_utc": "2026-09-24T21:09:41+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Pogledajte gol za preokret Grčke protiv Srbije u 95. minuti",
-      "link": "https://www.index.hr/sport/clanak/pogledajte-gol-za-preokret-grcke-protiv-srbije-u-95-minuti/2838499.aspx",
-      "published_utc": "2026-09-24T21:09:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Ružić najavio jednake plaće osobnim asistentima u udrugama i javnim ustanovama: Ovo je satnica",
-      "link": "https://www.tportal.hr/vijesti/clanak/ruzic-najavio-izjednacavanje-placa-osobnih-asistenata-u-udrugama-i-javnim-ustanovama-20260924",
-      "published_utc": "2026-09-24T21:08:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Kosovo srušilo Irsku, pobjeda Portugala, remi Nizozemske i Njemačke",
-      "link": "https://www.tportal.hr/sport/clanak/kosovo-srusilo-irsku-pobjeda-portugala-remi-nizozemske-i-njemacke-20260924",
-      "published_utc": "2026-09-24T21:07:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "HDZ odbio SDP-ov prijedlog o hitnom udaljavanju učenika nakon nasilja",
-      "link": "https://www.index.hr/vijesti/clanak/hdz-odbio-sdpov-prijedlog-o-hitnom-udaljavanju-ucenika-nakon-nasilja/2838500.aspx",
-      "published_utc": "2026-09-24T21:06:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Španjolski list podigao uzbunu zbog mogućih ruskih napada na tri europske države, oglasio se Macron",
-      "link": "https://www.tportal.hr/vijesti/clanak/spanjolski-list-podigao-uzbunu-zbog-mogucih-ruskih-napada-na-tri-europske-drzave-oglasio-se-macron-20260924",
-      "published_utc": "2026-09-24T21:05:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Grlić Radman u UN-u govorio o Hormuzu i iskustvu mirne reintegracije",
-      "link": "https://www.tportal.hr/vijesti/clanak/grlic-radman-u-un-u-govorio-o-hormuzu-i-iskustvu-mirne-reintegracije-20260924",
-      "published_utc": "2026-09-24T21:02:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Evo što je rekao izbornik Srbije nakon šoka i poraza golom u 95. minuti",
-      "link": "https://www.tportal.hr/sport/clanak/evo-sto-je-rekao-izbornik-srbije-nakon-soka-i-poraza-golom-u-95-minuti-20260924",
-      "published_utc": "2026-09-24T21:01:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Jurčević: U petak ćemo vidjeti hoće li Modrić moći igrati protiv Češke",
-      "link": "https://www.index.hr/sport/clanak/jurcevic-u-petak-cemo-vidjeti-hoce-li-modric-moci-igrati-protiv-ceske/2838497.aspx",
-      "published_utc": "2026-09-24T20:56:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "SDP traži bržu zaštitu žrtava u školama, Vlada smatra da je rok od 12 sati prekratak",
-      "link": "https://www.tportal.hr/vijesti/clanak/sdp-trazi-brzu-zastitu-zrtava-u-skolama-vlada-smatra-da-je-rok-od-12-sati-prekratak-20260924",
-      "published_utc": "2026-09-24T20:53:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Šok na sablasno praznoj Marakani: Srbija vodila, a onda izgubila golom u 95. minuti",
-      "link": "https://www.tportal.hr/sport/clanak/sok-na-sablasno-praznoj-marakani-srbija-vodila-a-onda-izgubila-golom-u-95-minuti-20260924",
-      "published_utc": "2026-09-24T20:52:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Hrvatska traži slobodnu plovidbu Hormuzom",
-      "link": "https://n1info.hr/vijesti/hrvatska-trazi-slobodnu-plovidbu-hormuzom/",
-      "published_utc": "2026-09-24T20:51:48+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Melania Trump u crnom od glave do pete: Elegantno izdanje privuklo pažnju zanimljivim krojem",
-      "link": "https://www.tportal.hr/lifestyle/clanak/melania-trump-u-crnom-od-glave-do-pete-elegantno-izdanje-privuklo-paznju-zanimljivim-krojem-foto-20260924",
-      "published_utc": "2026-09-24T20:51:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Google rolling out Android 17 QPR2 Beta 6 for Pixel - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVhjTWpwTndUYzBzbWpCRW85S2E0RnRSLWpZN2RVR2VNXzhIRUN0dno3QTdwTGt0Y2FFektaaVJmZy1kMUtzaHV4RTAwSVVTa2g1ZkR2OV94YnRmeHpoV25PVWZGVk9UM0ZmZm1qMjlOLVY0bE5xaXVQOXdjVDkwbGZsY1dBczlBLTN2V1VsZw?oc=5",
-      "published_utc": "2026-09-24T20:45:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Global bond selloff deepens, as US 30-year yields hit highest since 2004 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
-      "published_utc": "2026-09-24T20:44:24+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Pogledajte spektakularan gol i nevjerojatnu glupost: Sudac ga isključio, fanovi poludjeli - 'Izbacite ga doživotno'",
-      "link": "https://www.tportal.hr/sport/clanak/pogledajte-spektakularan-gol-i-nevjerojatnu-glupost-sudac-ga-iskljucio-fanovi-poludjeli-izbacite-ga-dozivotno-20260924",
-      "published_utc": "2026-09-24T20:44:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Njemačka ispustila pobjedu na Kloppovom debiju. Grčka srušila Srbiju u 95. minuti",
-      "link": "https://www.index.hr/sport/clanak/njemacka-ispustila-pobjedu-na-kloppovom-debiju-grcka-srusila-srbiju-u-95-minuti/2838403.aspx",
-      "published_utc": "2026-09-24T20:43:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Lani je 35 pedofila kažnjeno samo radom za opće dobro: Neki od njih u kontaktu s djecom",
-      "link": "https://www.tportal.hr/vijesti/clanak/lani-je-35-pedofila-kaznjeno-samo-radom-za-opce-dobro-neki-od-njih-u-kontaktu-s-djecom-20260924",
-      "published_utc": "2026-09-24T20:43:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Datulje nisu samo slatkiš: Evo zašto ih vrijedi uvrstiti u prehranu",
-      "link": "https://n1info.hr/magazin/lifestyle/datulje-nisu-samo-slatkis-evo-zasto-ih-vrijedi-uvrstiti-u-prehranu/",
-      "published_utc": "2026-09-24T20:42:17+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Pogledajte proslavu gola zbog koje je Izraelac dobio crveni karton",
-      "link": "https://www.index.hr/sport/clanak/video-izraelac-zbog-proslave-gola-dobio-crveni-karton/2838494.aspx",
-      "published_utc": "2026-09-24T20:38:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "France to Deploy Forces to Protect Saudi Red Sea Oil Port - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVdValVham5Vb3dTTTc5eHRIS0liNy1MQTNjVjV5T1RBLXlWN3JfaW5vQjRjTWpqTWtkNUFwTS0wZ3dpQ25UeHY2NUMyOWpQbWRqbXpJQXpWRHA5NXROcEZHSHFCWlpCZEJndGRKUkpJaTBOOXFhNGNjblM1YzBobXhYMEpmYUVxUjVYY0xIX0trN2FKTTdQbGh3andkSGlqWndyYVUyWQ?oc=5",
-      "published_utc": "2026-09-24T20:34:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Kristina Zadro Omrčen ponovno predložena za zamjenicu tajnika Hrvatskog sabora",
-      "link": "https://www.tportal.hr/vijesti/clanak/kristina-zadro-omrcen-ponovno-predlozena-za-zamjenicu-tajnika-hrvatskog-sabora-20260924",
-      "published_utc": "2026-09-24T20:31:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "SDP poručio Vladi: \"Istra nije ničije dvorište. Vrijeme je da prestanete provoditi diktaturu i počnete slušati!\"",
-      "link": "https://n1info.hr/vijesti/sdp-porucio-vladi-istra-nije-nicije-dvoriste-vrijeme-je-da-prestanete-provoditi-diktaturu-i-pocnete-slusati/",
-      "published_utc": "2026-09-24T20:30:29+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Melania Trump ugostila prvu damu Kine: Evo kamo ju je odvela dok su njihovi supruzi pregovarali",
-      "link": "https://www.tportal.hr/showtime/clanak/melania-trump-ugostila-prvu-damu-kine-evo-kamo-ju-je-odvela-dok-su-njihovi-supruzi-pregovarali-20260924",
-      "published_utc": "2026-09-24T20:30:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Njemačka istražuje 105-godišnjaka zbog sumnje na pomaganje u nacističkim ubojstvima",
-      "link": "https://www.tportal.hr/vijesti/clanak/njemacka-istrazuje-105-godisnjaka-zbog-sumnje-na-pomaganje-u-nacistickim-ubojstvima-20260924",
-      "published_utc": "2026-09-24T20:23:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
-      "published_utc": "2026-09-24T20:20:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Markets News, Sept. 24, 2026: Dow Closes Lower for 3rd Straight Session; Treasury Yields, Oil Prices Rise - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmNGM2pqeDY2aWtjcjRaNDhXTjBNdkUxU3ZPZ1phUzVfSGh4ckdfN05mQ2hscEF2MUR3Q0M4cXJuWG9qUmxSdzlNdS1FRWgzd0ttN2NzNXpRbmZraTl1dFNkelZHcnlXSlA0MDJSdi0za3pJbjFpSHkzamJMTTJUa2JQZ0VaeUlqT0lieno3MUI?oc=5",
-      "published_utc": "2026-09-24T20:18:48+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Ikona Dinama žestoko oplela po novom Maksimiru: 'Borili smo se da komunizam pošaljemo u povijest, a onda mu gradimo spomenik'",
-      "link": "https://www.tportal.hr/sport/clanak/ikona-dinama-zestoko-oplela-po-novom-maksimiru-borili-smo-se-da-komunizam-posaljemo-u-povijest-a-onda-mu-gradimo-spomenik-20260924",
-      "published_utc": "2026-09-24T20:17:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Njemačka povlači veliki potez: Evo što planira napraviti do 2045.",
-      "link": "https://n1info.hr/svijet/njemacka-povlaci-veliki-potez-evo-sto-planira-napraviti-do-2045/",
-      "published_utc": "2026-09-24T20:14:01+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Žiri je odbio ove dizajne Maksimira. Jesu li vam bolji od pobjedničkog?",
-      "link": "https://www.index.hr/sport/clanak/ovo-su-dizajni-maksimira-koji-su-izgubili-na-natjecaju-koji-vam-je-najbolji/2838484.aspx",
-      "published_utc": "2026-09-24T20:13:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Rasprava u Saboru: \"Veličaju se nasilne ideologije i skupine. I to među djecom i mladima\"",
-      "link": "https://n1info.hr/vijesti/rasprava-u-saboru-velicaju-se-nasilne-ideologije-i-nasilne-skupine-i-to-medju-djecom-i-mladima/",
-      "published_utc": "2026-09-24T20:11:17+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Plenković američkim ulagačima predstavio prilike u Hrvatskoj, izdvojio veliki tehnološki projekt",
-      "link": "https://www.tportal.hr/vijesti/clanak/plenkovic-americkim-ulagacima-predstavio-prilike-u-hrvatskoj-izdvojio-veliki-tehnoloski-projekt-20260924",
-      "published_utc": "2026-09-24T20:10:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Carney: Pripremili smo se na mogućnost američke vojne akcije protiv Kanade",
-      "link": "https://www.tportal.hr/vijesti/clanak/carney-pripremili-smo-se-na-mogucnost-americke-vojne-akcije-protiv-kanade-20260924",
-      "published_utc": "2026-09-24T20:08:45+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Pet suptilnih znakova koji mogu upozoravati na demenciju godinama prije dijagnoze",
-      "link": "https://www.tportal.hr/lifestyle/clanak/pet-suptilnih-znakova-koji-mogu-upozoravati-na-demenciju-godinama-prije-dijagnoze-20260924",
-      "published_utc": "2026-09-24T20:06:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Deaths of students at the University of Mississippi cast spotlight on kratom - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkFtRC14ZmhTQm53VllyWElNdnlmYy03TG9ZOGhKZTZ2dG90cHdtYnkxUV9kRVMtanNZQk5XamVzYkIzbnJxaVNDRWNXWXVHOUJTMGRqaUdiWGZveHNMYVpQMU1sUzA4b0lWYnBDejluMkxRY2Fyd0hHVzJ5bEZUZHhrMGtKZk5kT1UxSzU5cmtSWnJtb3ZRSm5R?oc=5",
-      "published_utc": "2026-09-24T20:06:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Plenković: Hrvatska vidi prostor za nova američka ulaganja",
-      "link": "https://n1info.hr/vijesti/plenkovic-hrvatska-vidi-prostor-za-nova-americka-ulaganja/",
-      "published_utc": "2026-09-24T20:03:26+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Plenković u SAD-u hvalio gospodarski napredak Hrvatske",
-      "link": "https://www.index.hr/vijesti/clanak/plenkovic-u-sadu-hvalio-gospodarski-napredak-hrvatske/2838490.aspx",
-      "published_utc": "2026-09-24T20:02:00+00:00"
     }
   ]
 }
