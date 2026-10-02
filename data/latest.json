@@ -1,13 +1,79 @@
 {
-  "last_run_utc": "2026-10-01T23:04:29.294331+00:00",
-  "items_total": 901,
-  "items_added_this_run": 91,
+  "last_run_utc": "2026-10-02T02:08:57.348653+00:00",
+  "items_total": 912,
+  "items_added_this_run": 24,
   "items": [
+    {
+      "source": "Google News HR",
+      "title": "Man who allegedly harassed Katie Miller indicted for cyberstalking in Massachusetts - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHBvR29Mbkhlb2lZVU10eE1GMUtiWTd0V25OSGc1OFlfWXJkcEk5ZDJGREdzWF9Tak9TM3BwQkc4VTlCclNhZXUxbXNrWjg4a2V0c3A1WUtLXzRDd1E3SElhUVU3bkJjSWtKNkFaMGEyNnh3dHphX2FGaS1ONk4wc01fRQ?oc=5",
+      "published_utc": "2026-10-02T01:34:48+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Grlić Radman: Hrvatska od Crne Gore traži imovinu vrijednu 2,7 milijardi dolara",
+      "link": "https://www.tportal.hr/vijesti/clanak/grlic-radman-hrvatska-od-crne-gore-trazi-imovinu-vrijednu-2-7-milijardi-dolara-20261001",
+      "published_utc": "2026-10-02T01:10:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdlFVbUFKUEVsRFFHV2dfaGJkNW80WFM3ajZEZWFyT2tyTjVKWEViS3Fsc3VERElGRjFjOXZfVHlHbEVzOVItQmVrdE5CckFfb0lhWjVzVXhQTnRTZm9rc2UyYU1laHYwX3hpQ05UcWVKWERHc2hJZ1BUWjdSZ2lWRVB6U1laZw?oc=5",
+      "published_utc": "2026-10-02T01:09:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Ronaldo otišao, Portugal zabio četiri gola, a onda je Jesus dobio pitanje svih pitanja: Odgovorio je jednom riječju",
+      "link": "https://www.tportal.hr/sport/clanak/ronaldo-otisao-portugal-zabio-cetiri-gola-a-onda-je-jesus-dobio-pitanje-svih-pitanja-odgovorio-je-jednom-rijecju-20261002",
+      "published_utc": "2026-10-02T00:25:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Francuski dug pod pritiskom, ECB ima instrumente. Hoće li ih iskoristiti?",
+      "link": "https://www.tportal.hr/vijesti/clanak/francuski-dug-pod-pritiskom-ecb-ima-instrumente-hoce-li-ih-iskoristiti-20261001",
+      "published_utc": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy' - espn.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdWZOZkx0aUJiLTM4RlRkNUZlcTNCNnRiNXNtV1FYRURFNFJtY25lU25xUEVCVndrUTh2MVFCeFdmWm9aaXN3bVktWmc0VUdYc01tSFJ4ck1PMjRUQU9BblhxOG1kX1pOVTQyVUhuNFhoZw?oc=5",
+      "published_utc": "2026-10-01T23:54:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Phillies’ Game 3 in Atlanta flexed to nighttime as standalone Wild Card Series matchup - Phillies Nation",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNanlVOFJ6WlVpem1BTEd3aDhQV3owbnRvbVU0Z0hRN2s0b0pKRXk4R2Q0M3dkRWNMUG1YdUxiZ2ZVbkFIN3I5bVJXR0lkMmFaT19wVUV3bTdUcmMwNnVHUWVuREZKZ0g1ajVFaDFSb2dNQU01QWRlTjBsZW9UZ0pOcVpKWTBDYVZadlV1Z0F6NlM5M0YwdlhmLUFISlhFWFF4M2kzMEJQbjhXeW9ORVd6R1pub0RwTF9McEZiNkdnb2RGREdCcUFWdDR1Qk1qRmd0ekVDNTktNjVYSVFpeGZiQXlQR1R5M0VpdlRMSXNfQUNhRGc2eUltQWlXSnE?oc=5",
+      "published_utc": "2026-10-01T23:39:05+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Judge overturns Trump’s decision to fire court-appointed U.S. attorney in Seattle - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDR6eV9QeWNxWFZrNTViSGgwVmRVY2lQS1ZvLWo1bThuY1ZrZzMyVFVJVjNzdlZMNkNzRFJpZF84SHV6Y19pQTNxUjBKbENnR2w4bTc4WTNSZ3JhOXNGOG1uVWlKMHp5T3lhbzJRd3Z1d2hUSWZMelk1U3hIX21IT1ZmUUFlRkRXSGZhNGRoaXhVT1NJXzZxRWZkeXBvWEtuZENtNkcwX3NjekppQUZIdUZ6SkJEZnAzYi1EZ3dJblhBZ2g4OW9GVDB2SHRTQQ?oc=5",
+      "published_utc": "2026-10-01T23:36:56+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Počeo vježbenički staž za 670 novih policajaca, evo što ih čeka",
+      "link": "https://www.tportal.hr/vijesti/clanak/poceo-vjezbenicki-staz-za-670-novih-policajaca-evo-sto-ih-ceka-20261001",
+      "published_utc": "2026-10-01T23:00:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5",
+      "published_utc": "2026-10-01T22:53:00+00:00"
+    },
     {
       "source": "Google News HR",
       "title": "Boeing’s white-collar union approves contract offer, avoiding strike - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcUpreUIyYlU3NUp4a3ZOTHdtYkhBX0F6V051UmVjUmNPc2FWcWpKZzRzQUF6Zkpvd2Y2bXJFbnZVd0piSUJESkFxM09kaVdmQzVaSllwX05LV3hVbmZkTmFhZk1LVXRfMkgydHBTdnFXeW9fUHg2MHZGLWFnYVZQeGpMZ0QxbVh3SjZQRm54VmZSbG9aVDJWYlBmRkVDTk1Ma25PUGYtbzZTcV9hZVZubjU4ZnROYUlBQ3hRUlF3VQ?oc=5",
       "published_utc": "2026-10-01T22:38:18+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjQxQTUxSE1zaWUtRzYzVnBGamNzSUdTZkg1NW0weHJMTUdMcjA1RXR4SFNidERULUxqeVRrLTJjY0x3SDNnaFRnaW04NjcyWnFUdm9nUmN6dnpQaFVnTU5VMFZXVGZTTGowS2hTeXd3QzdFRzBmLXJ6TktSNnBsWUZMeFJNUFVQTTdjXzBOcUlGMXpZVjlDX0hxQURzZXZyS3FrOXFn?oc=5",
+      "published_utc": "2026-10-01T22:36:00+00:00"
     },
     {
       "source": "Tportal",
@@ -26,6 +92,18 @@
       "title": "Live Updates: Tennessee Inmate in Critical Condition After ‘Torturous’ Botched Execution, Lawyer Says - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODkwTkNfVFQ1SG5sVDFaZlUtTEVwek9zNjJLejNJbDN0eTlnUkpJMC1hMHdwSWc5dExiUFREeGt5Q0xFZE5sQUZfdFp2U3p1X3VZd242V3d5cDJQWDRGU0pib0V6RnJpVUdvNl9KZm90NG9SZ2Y3M1ZQMnZkRHhMVg?oc=5",
       "published_utc": "2026-10-01T21:52:12+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Nike stock sinks as revenue misses estimates, expects to cut jobs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3?oc=5",
+      "published_utc": "2026-10-01T21:46:59+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Campaign-style Trump ads use money meant for border security, memorials - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEljYUNQUkRoVnJqRVhObHhwWUNIZllxTEd1YmRiSFZPWk85eXJGbVd3SVdjSnJ5dFNzdUdGRDZvaFJBQ2d2SE5ZQnkyTFltQTRIZEl2VHJfTUZnVzV6eVlwX1VjQ2xRZHZMdVpNeEtJVF9EYm5RckwxeTZYOFRPOVF1OGVuQzg5V0x0NGRwbnZQTWtWTHJhQ05fZnI3TnpUN2ZydDBSc1FRWUg1dUxieDNn?oc=5",
+      "published_utc": "2026-10-01T21:46:22+00:00"
     },
     {
       "source": "Tportal",
@@ -118,6 +196,12 @@
       "published_utc": "2026-10-01T21:06:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Accused killer in-laws’ lawyer tears apart trans NYT exec days after his slaying: ‘Terrorized family for years’ - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXZURk81M3FpVFRSNmVoRk9xdTZ0NjhwUGgwLXFYOTRodnpzX3NrcjY4d3RZWVlxRDdpWWMwTjdMRmZOVUNsalBjRy1IZG5QcmZfX3pvd2ZMVUVxVm1lTlVITTVlQnlWclpPQlNneDRsU0RYLXVjbmx0TExJaGQzR2R3bkZ4b1F4NFNNOEpCSUd0OVNHWnlULXJ0S1JqQnlHZThISW1HUllBREFrRmxz?oc=5",
+      "published_utc": "2026-10-01T21:05:00+00:00"
+    },
+    {
       "source": "Tportal",
       "title": "Srpski mediji nakon debakla ne štede nikoga: 'Najgora utakmica Srbije godinama'",
       "link": "https://www.tportal.hr/sport/clanak/srpski-mediji-nakon-debakla-ne-stede-nikoga-najgora-utakmica-srbije-godinama-20261001",
@@ -134,6 +218,12 @@
       "title": "Budite se usred noći? Jedna prehrambena navika mogla bi biti razlog",
       "link": "https://n1info.hr/magazin/lifestyle/budite-se-usred-noci-jedna-prehrambena-navika-mogla-bi-biti-razlog/",
       "published_utc": "2026-10-01T20:57:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "'They’ll be hit very hard': Trump sends 9,000 troops to the Middle East after warning Iran strikes - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG9oSjQ3X3FVR2NkOEdud19XQ1VVbzZPRk5WYjluNVJmRmFxck5FTDF0dEJvNU9GWkNiN2Nsd2k0Umw1TVdqdzJuM283XzNOUk5IQk9qV05iX2RMaFVDUmFRczlWYTVDcmFDLVIxWFY4RXAwTHNXZHc4RGdGRHMxUVZfa2o2UW1YTjBta0R4cm1hRWNiUnZwSzJCMWw?oc=5",
+      "published_utc": "2026-10-01T20:53:00+00:00"
     },
     {
       "source": "N1 Hrvatska",
@@ -182,6 +272,12 @@
       "title": "Bili su pred novom senzacijom nakon rušenja Njemačke: Velikan ih šokirao u 89. minuti",
       "link": "https://www.tportal.hr/sport/clanak/bili-su-pred-novom-senzacijom-nakon-rusenja-njemacke-velikan-ih-sokirao-u-89-minuti-20261001",
       "published_utc": "2026-10-01T20:42:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "No, No, No—Don’t Peel the Nano-Texture Layer off the iPhone Duo’s Inner Screen - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qWVVIUlZKeEhhYUpsZkpITjYtV0d6cEF5Y2lobWRxNmlxSm1IdTNieWFBZTZIOEc2MThFNkZvaTdnOU1rUGU1WWlmZmh2QVB5LWNkaTR4NU9zQk9NMG9LVk1FX3RzTFU0eXRRTGExOA?oc=5",
+      "published_utc": "2026-10-01T20:40:34+00:00"
     },
     {
       "source": "Index.hr Sport",
@@ -256,6 +352,12 @@
       "published_utc": "2026-10-01T20:17:33+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "UK police arrest dual UK-Iranian man in Fairford air base investigation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXZoS0pkNjVhU0QyeEtaTFh2OU9nb2FPNVJHa1R3NENYMUx3ZGVWd0Y0UEcyTnNHdGxmSF9ndU5nSXNPUVpfV1pvMnBlTUZHYk9OUGhBWjEyTmJpcy0zNkx3TWVwQ2RzcEtnYklxRzVxOXY5M1NJSm9oVzBkSFd4aEZESFlUSmVabUN4Wm1sQmJtaFpIY2VpNFZ0ajZoWVhVN0lIMm5B?oc=5",
+      "published_utc": "2026-10-01T20:14:04+00:00"
+    },
+    {
       "source": "Tportal",
       "title": "Skandal u Ligi nacija! Prekinuta utakmica u Dublinu, evo što se dogodilo",
       "link": "https://www.tportal.hr/sport/clanak/skandal-u-ligi-nacija-prekinuta-utakmica-u-dublinu-evo-sto-se-dogodilo-20261001",
@@ -278,6 +380,12 @@
       "title": "Nova era putovanja: Ovo su trendovi koji će 2027. doživjeti veliki uspjeh",
       "link": "https://n1info.hr/magazin/lifestyle/trendovi-u-putivanju-za-2027/",
       "published_utc": "2026-10-01T20:10:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Lindsay Clancy's motion for a finding of not guilty denied weeks after mistrial - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUo1TmdZTklhRk5VYmNUZUZVWUtJdWNFNnpHRkc3V2Vhc1lGdFI2a25TM19HYjBwM0w5Z3FlXzB2eGVSY2x2WnkzNHFGSG9uZ0hlRmxTVVdHY21BMS1qTTNvSEl0ejQzUjE0aTVLV1ZEMk5SUkswb3JQTG55SGY1TmdhSlBpb2lnODdIb2pXVDBuMG8wOGtObERnONIBoAFBVV95cUxOdlZkRDZzYUFTR1NDTUJwSkR4VC1HX1VrYzBnRTZxc2JYM3ZvcWZzd2V4ZTA5clE4cXpYS3hucFEyNWVxb19mQXdVSGc0T092ZWNrQUhCSlI3eVdkX3VXeVZXM0FHNHlXeXdRRHBnS3p2U0F1MFJ5MkZMYngxZ1ozVEsyaGFCcVczNHVBUDlUMWcwSWYydFMxRmRlbktsbS1t?oc=5",
+      "published_utc": "2026-10-01T20:07:10+00:00"
     },
     {
       "source": "Tportal",
@@ -464,6 +572,12 @@
       "title": "SDP postavio uvjet Vladi: Porez od ekstra profita usmjerite prema umirovljenicima",
       "link": "https://n1info.hr/vijesti/sdp-postavio-uvjet-vladi-porez-od-ekstra-profita-usmjerite-prema-umirovljenicima/",
       "published_utc": "2026-10-01T18:51:26+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Disney’s Dana Walden on Jimmy Kimmel’s Late Night Future: “It’s Challenging” - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0c3b2s5b1g4eGdoTExwMDBXdGhVT0N3emZKbXdiNjFIM25NNGNxWGNfc2FXa2R2M3Y4dVgtOExLUFhyWWcwOThhSVNRV21lVERYNEFNU3ExclRVWmY1TUdLRS1uN3hHOVVkTzlFeEJwV1JaSmRpaUV1Q01OdW1qWG9ucl90REY2STV5MV9xVkd2NmFkbkJtTjRFZHE2OFRoTXFTVVc0VXo1QQ?oc=5",
+      "published_utc": "2026-10-01T18:49:20+00:00"
     },
     {
       "source": "Index.hr",
@@ -658,6 +772,12 @@
       "published_utc": "2026-10-01T18:00:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Diddy placed in solitary following NBC News report on his VIP prison life - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFpmbUUyMmZjOXRObHlzamltdXpnWEtkUml2TjdNME9fZklnU2luVjBOc1J3WGduN1NjZEdhVXlFTlFSTzJCNmlCWjBXNERmWF9RZzJobGZlYkQ5UjF5LVo1d2ZIOW95N3pOa3FTN0Zrc3gyVmVHUUYyam8tM08yOFdENDBVd3pabDVrbW8wa1l1Mjg0MEVjcDZTMEFIa3ZjT29N?oc=5",
+      "published_utc": "2026-10-01T17:58:48+00:00"
+    },
+    {
       "source": "N1 Hrvatska",
       "title": "Počela je arbitraža, evo što kažu sindikati: S obzirom na pozitivan ton i atmosferu...",
       "link": "https://n1info.hr/vijesti/pocela-je-arbitraza-evo-sto-kazu-sindikati/",
@@ -704,6 +824,12 @@
       "title": "Netanyahu: Omani co-pilot went through Islamic radicalization - Axios",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2h6R0l1LVdqZ1lCT2NKQmdvdFJlajdHVzBXTW85XzlYbUU5OGtJVGJQRW85VFVwSlFRWHZiT3A2NnltU1o5V04tSG1UOF9NVmVoT2dSbkkwNDE2bWt3U0ZpaW9IR0xqWGVhNXE0MDRmUTczM1lpRzN3QzllMk4wSXExSFNVMndTUkNVOWhGU0JkeFU?oc=5",
       "published_utc": "2026-10-01T17:44:26+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording' - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUxaUXlyS3lfaTc3eHpKRUNYd0N2eUhjaUJ5NldwZzYzT2hVNURaRDFXdVpRU3pXcHBsTjlwaXRodGg2NWJPY1RFNUZLSlVWS0VhbWd3cjcwRlFIa1ZhVF8tb1VmNk4yTGJiWElJTTF0YkZSZXlJSUhFNFdRSWhpU2ltR2V3Szg?oc=5",
+      "published_utc": "2026-10-01T17:44:13+00:00"
     },
     {
       "source": "N1 Hrvatska",
@@ -1006,6 +1132,12 @@
       "published_utc": "2026-10-01T16:22:00+00:00"
     },
     {
+      "source": "Google News HR",
+      "title": "Whale sinks yacht in South Pacific causing military rescue mission - FOX 8 News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTU80OFFSa29Nc1ZWMm9jWVppVXN6alVON3VEazFTYXdURVBrQWs0WEVUTWxja1VtY2lpYzdpM0NRWVYydGNUQXdJLXRucXJMOGNkeUtHT29sUTdsWi1HUlRqQ0lWYXFXS0Q4b3hRdW1Zb2FqdXI4RktLb3dmU0xfR25VS2hLeWRCb2NRSnYtYk5yQ0XSAZgBQVVfeXFMUHBaamlzcFRJVDduRmxsTnljVWNEanRyejVwN1piUm5xRllEWXN0T0FtUUh4bDlJOW1iY2JJUWh2bmFaQnQ0OERDSmN2Zm9aWm9hS1RXQTU5T29KaG9CZE1FTHk5WXh4OGY2NnZVZ0dKQTFqSHZFdUFnMmVHWlJVUVNWb2czRURjaEpqUEVkZGJWeTVGeF9FazE?oc=5",
+      "published_utc": "2026-10-01T16:21:55+00:00"
+    },
+    {
       "source": "Index.hr",
       "title": "EU povjerenik za obranu: Ako Rusi napadnu naše tvornice, to znači aktivaciju članka 5",
       "link": "https://www.index.hr/vijesti/clanak/eu-povjerenik-za-obranu-ako-rusi-napadnu-nase-tvornice-to-znaci-aktivaciju-clanka-5/2840948.aspx",
@@ -1087,6 +1219,12 @@
       "source": "Google News HR",
       "title": "Lawmakers call for action on ‘plainly illegal’ taxpayer-funded ads to promote Trump - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVhlMEc5alB2Tl9CUEhENmdzZWF3ak5nalZ6bUYzTEJnMUZFNHRjbUZ6NXJHNWtiTlhINTVZVHNIYjFKdmFQeUV2NE9UZ2dZSU95djdtZWItbEtxQ2hvMEFjVkVMSWtoTzJqakZtUFU1eV9xbjE5TjBmaFJrVWhVT0NiM3NhdjA?oc=5",
+      "published_utc": "2026-10-01T15:39:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Paramount, CNN Chief Mark Thompson in ‘Early Stages’ of Discussions to Keep Him in Post - Variety",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVZHcV9fU2t0QmVRTnppWnJORXBUbEtOb3JPallMaDR0YVVodDhWWEIxd1ZxLWRKb043X2FydWNWVWFuS2FkaC1vTHR4ekRoVmppRHpQeTdabXlsUWZiV21PMUpVdi1FOVFISjVUc19pOVJ2SDM0WGhva1ptNW1ua3BUdmVQWjFzQmVPYlJIMHV5X01q?oc=5",
       "published_utc": "2026-10-01T15:39:00+00:00"
     },
     {
@@ -1496,6 +1634,12 @@
       "title": "Sukob Ronalda i izbornika prerastao nogomet: Uključio se portugalski premijer",
       "link": "https://www.tportal.hr/sport/clanak/sukob-ronalda-i-izbornika-prerastao-nogomet-ukljucio-se-portugalski-premijer-20261001",
       "published_utc": "2026-10-01T12:36:00+00:00"
+    },
+    {
+      "source": "Google News HR",
+      "title": "Willson Contreras Shades Red Sox's Use of Analytics in Video After Sonny Gray's Early Exit - bleacherreport.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWFBkcnRlUG5KMGNVbE5oY0ZxMkZ4VnQwdjJLQl93cjNfdVJfeXQ5RkVCeWljMHBMaFJmems0X0c4VHpyamNhVU1iR0lOS3hYc2NPZ3RVN2JXcTJoQjUxbHN3Mzc1V3NDWi0wS214dHlSVnQ1a3NERldEaHVIY2ZaWHJmXzVyT3dzdjFIdVhpVElwaE9CaGkwOUI4Q0JfbXZIekExWHJvRWtDVDZSZlRDUmJtSnU4cDNwc3RoLUpPajctZzFHSnc?oc=5",
+      "published_utc": "2026-10-01T12:34:50+00:00"
     },
     {
       "source": "N1 Hrvatska",
@@ -5330,84 +5474,6 @@
       "title": "Why Caitlin Clark was at the center of a Hawks-Hawkeyes mix-up during Senate argument - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW1WSTY2b2lPc2dWbXJ1M2tfNWhGbV8tRjRoNy1xODBaeEFzdE92ZHJmWXYyNVo5eVRHWFhkNWVkZElha1YybE93ay1lc3IzTl9CdndMXzFXSmVRZVdRcVRQMzd2WHF5c1BvVHlfWUVGeklvdURhSDBDUmtvSDNSV0tUcXNWQ2JxNzZWTw?oc=5",
       "published_utc": "2026-09-30T02:09:18+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Francuska traži izlaz iz američke tehnološke ovisnosti: Može li država bez Microsofta?",
-      "link": "https://www.tportal.hr/tehno/clanak/francuska-trazi-izlaz-iz-americke-tehnoloske-ovisnosti-moze-li-drzava-bez-microsofta-20260929",
-      "published_utc": "2026-09-30T02:00:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0gyS19NX0REZ3gwY2s4cVZxMGxlU2p1MGhJTUNHekkyNUoxaGE2YmswdUEtYTRralZwa0tkdENvS182a0FxLTBwbGZwRnoyRnYtVzBvX0R6UThiSnVMemo1Q1Z5Ull5MkFCMlFGRE5ZRnVrQ1oydV9Sbk1PR0p2ZlFJX3k4RTNvY0xiaUZKSGN0V0xOYXc?oc=5",
-      "published_utc": "2026-09-30T01:41:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Grčka vraća Bugarskoj posmrtne ostatke srednjovjekovnog cara nakon 60 godina",
-      "link": "https://www.tportal.hr/kultura/clanak/grcka-vraca-bugarskoj-posmrtne-ostatke-srednjovjekovnog-cara-nakon-60-godina-20260929",
-      "published_utc": "2026-09-30T01:00:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Ellison Picks HBO Content Chief to Run Paramount-Warner Streaming Business - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWs2d3dmcjB0UERVNEJsdTIyNjNhbWVMemRGMmI1Q3JET2wyc0c1dzhrUlZ1NVpWV0ZyMHNXZHdCaHNua0NvZGJTTWRFZGRHbGlVZjhXMVZXRWtsSHoxRmdkTUdjRVJaX2dHSDQ4NmVSWnBzWEs5bjJiUzRlcFJ0MkJzWktfUnFPbXhVSUVLTnVtM21rR0N0NTZyUE81VldwOXRXNEtScU5EUlZTTWdVWFJtUXgzbXNmUWc?oc=5",
-      "published_utc": "2026-09-30T00:29:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Trump, top AI leaders agree to voluntary ​AI ​standards - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWk2eWxNTHpibjlzT0VJQktLZy03VDdvV25kQWliMHEtdm1zYjhrbkRHb2ZmRnhJcWZ2TExUS3hUZTc5OGFzTUVNWjJhSkdHT2d6Mzh4WWs4a1M1YWhiNmdqajFObnFxM0V2bTdxX0JDeHNHY0U2WEdDc0NQSWJaNEo2LV9uR2Q0?oc=5",
-      "published_utc": "2026-09-30T00:16:36+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Jane Doe in Cornell University case told campus police, \"I can say with 100% confidence I was raped,\" transcript shows - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEtCV0Rla3ZHZWJiRXBrMVd6OXhnZFMxYlU1UDlwTVhicVpyUUNOY0pfX1hDalZkOTNqT3liRVlWS2k1NHRsNGZObm56R2lxVk95UnN4RTdEMFNKYXJacXlkTDY2MUYxZzhpRnNSNFlHVkdxWTBSTC1PMlhwWWhWZkFwbTdfbEFsVThJTmgxd0U5TE5Ec05ielZwcmwzUlNaLU9RcnhB?oc=5",
-      "published_utc": "2026-09-30T00:07:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "UN upozorava: Svijet ima sve manje vremena za spas šuma",
-      "link": "https://www.tportal.hr/no-planet-b/clanak/un-upozorava-svijet-ima-sve-manje-vremena-za-spas-suma-20260929",
-      "published_utc": "2026-09-30T00:00:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Caleb Flynn found guilty on all charges in wife's death - WLWT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFE2bHFGRHlJcjdsa0pFZXlEUUo5WHNOVnIyZXpmRVBIX0IxQ1RlSWFOdVFKcGRhWFpJYlhuMEVyVUhmYkNRU0w2QzVqQzJ1Y185Qm9oODNIVGVTMTZ3dUhnMW9Fd29KdHM0VjAwV3RjZlFBdmRhcUFESV84UlFMRUxTRVRRaWM0Wkpacng2MkE2YjNTaHZYNm1uTQ?oc=5",
-      "published_utc": "2026-09-29T23:52:45+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Xbox Disc-To-Digital Officially Exits Testing - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzJJclVfLXlVMEVhSkNvYldwU1JneXBsZkZfd2V0N3J3cjRaVmVyMXRkMm9oY0Fjel9yakx2bjhzLXdfemxQVjdLZXZlRFB6UzNhaFBNT250X3ZYci1xWElrMFFwYU1aUDFjUm9XYnBzOU9mTjVZSndxLTI4VDN4WHUtZU5rTlHSAYwBQVVfeXFMTlRCSEZrcjJiOGxEVkdQNHJoekFScFpFZTcwbU9jTjJEakxvOTdfbE93cEVVQWtHamRuX2xob1hkZEQ1Ym5LcTg1eUJpSk5Gb2J3VkFJT2pzSHp4TmVUQ0RRcnNWVTdvQUtxTTlLakVjQ0NUWUp2RWlpcFFaNGFaWlRLaXJiZEo0U1JKVlM?oc=5",
-      "published_utc": "2026-09-29T23:45:29+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Trump and Rubio question U.K. handling of possible plot against air base after 5 men released on bail - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUU3QnVsZDBhYkhENnA3cXN3VU1uTHR0NlpaX1pJUjJEMFA2eFF3WlhGcW9WcnJZb1E4aVlEZEc5NTIyVXZaU2FmZ0NBSktGTEFvTnNwbkVJeS1PZ1R3NGluc3g3dGhBejN1blRDRUU2U1A5alg4ZXN3U013N1RIUE1SV2loWlNIcy1jUF8xYUY?oc=5",
-      "published_utc": "2026-09-29T23:38:58+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJtUGxfc2w2NG82aU1xNUhjX0VPSGtzakhBdG1oWnVqRXJ2alBTWGt1c2RvUWd4N2xEZTJ1RnNVbTN3b2plZEw2TE56U0RhYk1BQWFkZTFZN0lOR25tYWllWGhHTUhNZ1lBdmJjSGdvWk15R0h6VmVlcEc4MW1jOWdfbEdoTGJiRlctQTBIMlBELTRhNDloQTVNRkJrQXBYN0J1QWFn?oc=5",
-      "published_utc": "2026-09-29T23:36:01+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Venezuelan man shot and wounded by ICE agent in Texas is charged with assaulting an officer - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnJ0VUJ1cVNYTWh2bkdVWmJSSXFncUdKOGRwTkdBNC1SbElfLWM4SXNuSHNpVm1TMFdHN3Njb2pyUEw1cTFJY2xLa3dsVy1JRDB1dHRSR3BNLVA0UHQya1BOT2YxR3gzbHBaMW9aUExFdGRtckJmRnU2ZlR0UUg1d0hPbHJ6NzFpTm9TbEtHU1hWZTZQWTh5ak1PWUloMmR1VE1na0RsemxwZzJtSTVsTDBKWnhucmotX1E?oc=5",
-      "published_utc": "2026-09-29T23:23:23+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Braves squander Chris Sale's gem but beat Phillies anyway, thanks to Austin Riley's redemptive homer - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWUNTV0g3QkQ5eDRnVXRwSDlZdHlxY1JIYTY4Wko1X3hoTjV4UjcycTBuWGVyRHExcXlualI3NTVzQ25OU0FxX1NGeVRvWTBmVnl0d0tBNWdFeUp3SlFkbGI1VURTUWt0ekd6S3YtelNkNnJYMGFoQWVoc2R4ekxaaE1OV0h0N3h1UE5TbFp5bTY5Q2l0a3d4d09ITHBpNnNEZ0xDeEFfVk9NZ3EyeUJ3Z1hvNGlQaGFNTDZJWE45Q0ZMdTJSNk1uc0JHRlN0TDJMY2REYzk4TU84aHhtX1ZhcXpfNA?oc=5",
-      "published_utc": "2026-09-29T23:07:52+00:00"
     }
   ]
 }
