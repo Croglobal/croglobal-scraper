@@ -1,8 +1,620 @@
 {
-  "last_run_utc": "2026-10-23T05:28:30.746655+00:00",
-  "items_total": 1057,
-  "items_added_this_run": 58,
+  "last_run_utc": "2026-10-23T10:24:25.103617+00:00",
+  "items_total": 1044,
+  "items_added_this_run": 102,
   "items": [
+    {
+      "source": "N1 Hrvatska",
+      "title": "Povjesničar iz Beograda u jednoj rečenici iznio \"najbolji opis situacije u Srbiji\"",
+      "link": "https://n1info.hr/video/novi-dan/povjesnicar-iz-beograda-u-jednoj-recenici-iznio-najbolji-opis-situacije-u-srbiji23102026/",
+      "published_utc": "2026-10-23T10:09:30+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Veliki preokret. Azija podržala Infantina, očekuje se njegova pobjeda na izborima",
+      "link": "https://www.index.hr/sport/clanak/veliki-preokret-azija-podrzala-infantina-ocekuje-se-njegova-pobjeda-na-izborima/2848927.aspx",
+      "published_utc": "2026-10-23T10:08:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Žitoproizvod ima novog predsjednika: 'Prioriteti su jasni'",
+      "link": "https://www.tportal.hr/biznis/clanak/zitoproizvod-ima-novog-predsjednika-prioriteti-su-jasni-20261023",
+      "published_utc": "2026-10-23T10:07:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Profesor objasnio što slijedi nakon odluke Suda EU-a o sukobu nadležnosti u slučaju Beroš",
+      "link": "https://n1info.hr/video/novi-dan/profesor-objasnio-sto-slijedi-nakon-odluke-suda-eu-a-o-sukobu-nadleznosti-u-slucaju-beros23102026/",
+      "published_utc": "2026-10-23T10:06:10+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Europska zemlja iznenada apelira: Pripremite zalihe za tri dana, prijetnje nisu hipotetske",
+      "link": "https://www.tportal.hr/vijesti/clanak/europska-zemlja-iznenada-apelira-pripremite-zalihe-za-tri-dana-prijetnje-nisu-hipotetske-20261023",
+      "published_utc": "2026-10-23T10:06:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Hezonja sjajno odigrao u povratničkom NBA debiju: Cavsi prokockali nemoguće",
+      "link": "https://www.tportal.hr/sport/clanak/hezonja-sjajno-odigrao-u-povratnickom-nba-debiju-cavsi-prokockali-nemoguce-20261023",
+      "published_utc": "2026-10-23T10:05:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Xbox uvodi nove cijene igranja na oblaku",
+      "link": "https://www.tportal.hr/tehno/clanak/xbox-uvodi-nove-cijene-igranja-na-oblaku-20261023",
+      "published_utc": "2026-10-23T10:05:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Pogledajte fotografiju Cybertrucka na registraciji u Zagrebu",
+      "link": "https://www.tportal.hr/autozona/clanak/pogledajte-fotografiju-cybertrucka-na-registraciji-u-zagrebu-20261023",
+      "published_utc": "2026-10-23T10:04:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Ćipe: Bilandžić nije došao po Duhu Svetom, nego po Ivanu Penavi",
+      "link": "https://www.index.hr/vijesti/clanak/cipe-bilandzic-nije-dosao-po-duhu-svetom-nego-po-ivanu-penavi/2848922.aspx",
+      "published_utc": "2026-10-23T10:02:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Izabrali ste junaka Hajdukove pobjede u Švicarskoj",
+      "link": "https://www.index.hr/sport/clanak/izabrali-ste-junaka-hajdukove-pobjede-u-svicarskoj/2848923.aspx",
+      "published_utc": "2026-10-23T10:02:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Hrvati sve bogatiji, ali i sve zaduženiji: HNB objavio koliko vrijedi imovina kućanstava",
+      "link": "https://www.tportal.hr/biznis/clanak/hnb-iznio-nove-podatke-o-financijskoj-imovini-kucanstava-u-porastu-je-20261023",
+      "published_utc": "2026-10-23T10:01:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Tko je bio Asim Kurjak? Svjetski priznat liječnik čiju su karijeru obilježile i velike afere",
+      "link": "https://www.tportal.hr/vijesti/clanak/tko-je-bio-asim-kurjak-svjetski-priznat-lijecnik-ciju-su-karijeru-obiljezile-i-velike-afere-foto-20261023",
+      "published_utc": "2026-10-23T10:01:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Uhićen tjelohranitelj šefa zeničkog zatvora. Imao kilu heroina pa bježao policiji",
+      "link": "https://www.index.hr/vijesti/clanak/uhicen-tjelohranitelj-sefa-zenickog-zatvora-s-kilom-heroina-bjezao-policiji/2848920.aspx",
+      "published_utc": "2026-10-23T10:00:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Nova špijunska afera u srcu Europe: Austrija protjeruje četvero ruskih diplomata",
+      "link": "https://www.tportal.hr/vijesti/clanak/novi-udarac-moskvi-austrija-protjeruje-cetvero-ruskih-diplomata-poznat-razlog-20261023",
+      "published_utc": "2026-10-23T10:00:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Divljao autom na splitskom groblju. Policija traži da mu se trajno oduzme vozilo",
+      "link": "https://www.index.hr/vijesti/clanak/divljao-autom-na-splitskom-groblju-policija-trazi-da-mu-se-trajno-oduzme-vozilo/2848901.aspx",
+      "published_utc": "2026-10-23T09:58:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "DP lupio kontru Plenkoviću: 'Bilandžić nije došao po Duhu Svetom, bit će smijenjen!'",
+      "link": "https://www.tportal.hr/vijesti/clanak/dp-lupio-kontru-plenkovicu-bilandzic-nije-dosao-po-duhu-svetom-bit-ce-smijenjen-20261023",
+      "published_utc": "2026-10-23T09:58:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Hrvati sve bogatiji, ali i sve zaduženiji. HNB objavio nove podatke",
+      "link": "https://www.index.hr/vijesti/clanak/hrvati-sve-bogatiji-ali-i-sve-zaduzeniji-hnb-objavio-nove-podatke/2848919.aspx",
+      "published_utc": "2026-10-23T09:55:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Jenna Ortega otvoreno o problemu koji je prati od djetinjstva: ‘Sve je počelo kad sam imala sedam godina’",
+      "link": "https://www.tportal.hr/showtime/clanak/jenna-ortega-otvoreno-o-problemu-koji-je-prati-od-djetinjstva-sve-je-pocelo-kad-sam-imala-sedam-godina-foto-20261023",
+      "published_utc": "2026-10-23T09:53:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Geološki institut prozvao županiju zbog otpada u Sisku: \"Iskrivljuju činjenice\"",
+      "link": "https://www.index.hr/vijesti/clanak/geoloski-institut-prozvao-zupaniju-zbog-otpada-u-sisku-iskrivljuju-cinjenice/2848917.aspx",
+      "published_utc": "2026-10-23T09:50:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Europska komisija zabrinuta: Potrošači u eurozoni sve nezadovoljniji, niču prosvjedi",
+      "link": "https://www.tportal.hr/biznis/clanak/europska-komisija-zabrinuta-potrosaci-u-eurozoni-sve-nezadovoljniji-nicu-prosvjedi-20261023",
+      "published_utc": "2026-10-23T09:48:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Europljanima je dosta poskupljenja. Prosvjedi u sedam zemalja",
+      "link": "https://www.index.hr/vijesti/clanak/europljanima-je-dosta-poskupljenja-prosvjedi-u-sedam-zemalja/2848915.aspx",
+      "published_utc": "2026-10-23T09:47:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "FOTO, VIDEO / Ulicama Palerma ori se Bella Ciao: \"Vi nama peticu iz vladanja, mi vama nulu za upravljanje državom\"",
+      "link": "https://n1info.hr/svijet/foto-video-ulicama-palerma-ori-se-bella-ciao-vi-nama-peticu-iz-vladanja-mi-vama-nulu-za-upravljanje-drzavom/",
+      "published_utc": "2026-10-23T09:45:40+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "VIDEO Novinarka bugarskoj političarki postavljala pitanje. Zaštitar je srušio na pod",
+      "link": "https://www.index.hr/vijesti/clanak/video-novinarka-bugarskoj-politicarki-postavljala-pitanje-zastitar-je-srusio-na-pod/2848913.aspx",
+      "published_utc": "2026-10-23T09:45:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Ćipe o smjeni Bilandžića: \"Nije došao po Duhu Svetom, nego po Penavi. Izgubio je povjerenje\"",
+      "link": "https://n1info.hr/vijesti/stipo-mlinaric-cipe-smjena-tomislav-bilandzic-petrovacka-dola-23-10-2026/",
+      "published_utc": "2026-10-23T09:43:11+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Čuvar zeničkog zatvora uhićen s drogom: Riječ je o sinu BiH ministra policije",
+      "link": "https://www.tportal.hr/vijesti/clanak/cuvar-zenickog-zatvora-uhicen-s-drogom-rijec-je-o-sinu-bih-ministra-policije-20261023",
+      "published_utc": "2026-10-23T09:43:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Austrija protjerala četvero ruskih diplomata",
+      "link": "https://www.index.hr/vijesti/clanak/austrija-protjerala-cetvero-ruskih-diplomata/2848914.aspx",
+      "published_utc": "2026-10-23T09:42:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Zašto je Hajduku trebala vječnost da nađe ovakvog igrača?",
+      "link": "https://www.index.hr/sport/clanak/zasto-je-hajduku-trebala-vjecnost-da-nadje-ovakvog-igraca/2848769.aspx",
+      "published_utc": "2026-10-23T09:40:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "ANKETA Koga želite za trenera Dinama?",
+      "link": "https://www.index.hr/sport/clanak/tko-bi-uopce-mogao-zamijeniti-kovacevica/2848894.aspx",
+      "published_utc": "2026-10-23T09:38:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Špijunski skandal u Beču: Četvero ruskih diplomata proglašeno personama non grata",
+      "link": "https://n1info.hr/svijet/spijunski-skandal-u-becu-cetvero-ruskih-diplomata-proglaseno-personama-non-grata/",
+      "published_utc": "2026-10-23T09:36:27+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Europske institucije gase stranice zbog opasnih propusta: Jesu li ugroženi računi u hrvatskim bankama?",
+      "link": "https://www.tportal.hr/biznis/clanak/europske-institucije-gase-stranice-zbog-opasnih-propusta-jesu-li-ugrozeni-racuni-u-hrvatskim-bankama-20261023",
+      "published_utc": "2026-10-23T09:36:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Özil: Rusiji je zabranjeno igrati, a Izraelu nije. FIFA mora biti jednaka prema svima",
+      "link": "https://www.index.hr/sport/clanak/%C3%B6zil-rusiji-je-zabranjeno-igrati-a-izraelu-nije-fifa-mora-biti-jednaka-prema-svima/2848900.aspx",
+      "published_utc": "2026-10-23T09:35:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Policija traži provalnike u banku, oštetili su i bankomat",
+      "link": "https://www.tportal.hr/vijesti/clanak/policija-trazi-provalnike-u-banku-ostetili-su-i-bankomat-20261023",
+      "published_utc": "2026-10-23T09:33:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Paketi izvan EU dodatno poskupljuju od 1. studenoga",
+      "link": "https://www.index.hr/vijesti/clanak/paketi-izvan-eu-dodatno-poskupljuju-od-1-studenoga/2848909.aspx",
+      "published_utc": "2026-10-23T09:32:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Često naručujete preko interneta? Od studenoga vas čeka neugodno iznenađenje",
+      "link": "https://www.tportal.hr/vijesti/clanak/cesto-narucujete-preko-interneta-od-studenoga-vas-ceka-neugodno-iznenadenje-20261023",
+      "published_utc": "2026-10-23T09:32:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Liječnik mu je rekao da će preživjeti, tri sata kasnije bila je mrtva: Ovo je najtužnije pismo velikog pisca",
+      "link": "https://www.tportal.hr/showtime/clanak/lijecnik-mu-je-rekao-da-ce-prezivjeti-tri-sata-kasnije-bila-je-mrtva-ovo-je-najtuznije-pismo-velikog-pisca-20261023",
+      "published_utc": "2026-10-23T09:30:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Od 1. studenoga stiže nova naknada od dva eura: Evo tko će je plaćati",
+      "link": "https://n1info.hr/vijesti/od-1-studenoga-stize-nova-naknada-od-dva-eura-evo-tko-ce-je-placati/",
+      "published_utc": "2026-10-23T09:28:14+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Gradi se važna prometnica na Jadranu: HAC raspisao natječaj od 13 milijuna eura, poznat rok završetka",
+      "link": "https://www.tportal.hr/biznis/clanak/gradi-se-vazna-prometnica-na-jadranu-hac-raspisao-natjecaj-od-13-milijuna-eura-poznat-rok-zavrsetka-20261023",
+      "published_utc": "2026-10-23T09:28:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Papa Lav otkazao planirano putovanje. Objavljene nove informacije o njegovu zdravlju",
+      "link": "https://n1info.hr/svijet/papa-lav-putovanje-asiz-operacija-zdravlje/",
+      "published_utc": "2026-10-23T09:26:34+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Poznate hrvatske terme dobile novo ruho: Uloženo 1,4 milijuna eura, pogledajte što sve nude",
+      "link": "https://www.tportal.hr/biznis/clanak/terme-iz-zagorja-prosle-veliku-modernizaciju-ulozili-su-1-4-milijuna-eura-20261023",
+      "published_utc": "2026-10-23T09:26:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Na otvaranju Armadinog murala treštala pjesma o Jasenovcu. Stigle kazne i prijava",
+      "link": "https://www.index.hr/vijesti/clanak/na-otvaranju-armadinog-murala-trestala-pjesma-o-jasenovcu-stigle-kazne-i-prijava/2848906.aspx",
+      "published_utc": "2026-10-23T09:20:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Raspisan natječaj za obilaznicu kod Novog Vinodolskog. Vrijedi 13 milijuna eura",
+      "link": "https://www.index.hr/vijesti/clanak/raspisan-natjecaj-za-obilaznicu-kod-novog-vinodolskog-vrijedi-13-milijuna-eura/2848904.aspx",
+      "published_utc": "2026-10-23T09:20:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Izrael izdao naredbu: Pripremite se za potpunu blokadu, planirali su veliki teroristički napad!",
+      "link": "https://www.tportal.hr/vijesti/clanak/izrael-izdao-naredbu-zatvorite-zapadnu-obalu-planirali-su-veliki-teroristicki-napad-20261023",
+      "published_utc": "2026-10-23T09:19:00+00:00"
+    },
+    {
+      "source": "Tportal",
+      "title": "Ruski tanker s 40.000 tona dizela plovi prema New Yorku: Poznato pod čijom je zastavom",
+      "link": "https://www.tportal.hr/vijesti/clanak/ruski-dizel-plovi-prema-new-yorku-poznato-pod-kojom-zastavom-operira-tanker-20261023",
+      "published_utc": "2026-10-23T09:19:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "U Njemačkoj nestala Dejana (35). Pronađena je mrtva s 19 ubodnih rana",
+      "link": "https://www.index.hr/vijesti/clanak/u-njemackoj-nestala-dejana-35-pronadjena-je-mrtva-s-19-ubodnih-rana/2848898.aspx",
+      "published_utc": "2026-10-23T09:18:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Izborna šutnja u Srbiji. Objavljeni rezultati zadnje ankete, naručio ju je Vučić",
+      "link": "https://www.index.hr/vijesti/clanak/izborna-sutnja-u-srbiji-objavljeni-rezultati-zadnje-ankete-narucio-ju-je-vucic/2848893.aspx",
+      "published_utc": "2026-10-23T09:17:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Srpski sud odlučuje o kućnom pritvoru za ministra optuženog za pad nadstrešnice",
+      "link": "https://www.index.hr/vijesti/clanak/srpski-sud-odlucuje-o-kucnom-pritvoru-za-ministra-optuzenog-za-pad-nadstresnice/2848903.aspx",
+      "published_utc": "2026-10-23T09:15:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Papa se oporavlja od operacije raka pluća. Morao je otkazati putovanje",
+      "link": "https://www.index.hr/vijesti/clanak/papa-se-oporavlja-od-operacije-raka-pluca-morao-je-otkazati-putovanje/2848892.aspx",
+      "published_utc": "2026-10-23T09:05:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "HNB za N1 o velikoj sigurnosnoj prijetnji: Bankovne usluge i podaci građana nisu ugroženi",
+      "link": "https://n1info.hr/vijesti/hnb-za-n1-o-velikoj-sigurnosnoj-prijetnji-bankovne-usluge-i-podaci-gradjana-nisu-ugrozeni/",
+      "published_utc": "2026-10-23T09:01:25+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Građani europske zemlje dobili upozorenje: Osigurajte zalihe hrane i vode",
+      "link": "https://n1info.hr/svijet/velika-britanija-upozorenje-zalihe-hrane-i-vode/",
+      "published_utc": "2026-10-23T08:59:55+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Pucnjava između Palestinaca i IDF-a. Netanyahu: Uvodim blokadu Zapadne obale",
+      "link": "https://www.index.hr/vijesti/clanak/izrael-blokirao-grad-na-zapadnoj-obali-nakon-pucnjave/2848890.aspx",
+      "published_utc": "2026-10-23T08:51:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Kekin na sudu: Medikol ulaže puno truda i novca kako bi me ušutkao",
+      "link": "https://www.index.hr/vijesti/clanak/kekin-na-sudu-medikol-ulaze-puno-truda-i-novca-kako-bi-me-usutkao/2848885.aspx",
+      "published_utc": "2026-10-23T08:51:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Oglasio se HDZ-ov gradonačelnik o izjavi da su Židovi u logoru pjevali i trgovali",
+      "link": "https://www.index.hr/vijesti/clanak/oglasio-se-hdzov-gradonacelnik-o-izjavi-da-su-zidovi-u-logoru-pjevali-i-trgovali/2848879.aspx",
+      "published_utc": "2026-10-23T08:49:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "FOTO / HOS-ov mural u Rijeci osvanuo zaliven crvenom bojom, oglasili se odgovorni",
+      "link": "https://n1info.hr/vijesti/hos-mural-rijeka-skurinje-za-dom-spremni-crvena-boja-23-10-2026/",
+      "published_utc": "2026-10-23T08:47:33+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Završio je rekordni NBA niz koji će teško biti nadmašen",
+      "link": "https://www.index.hr/sport/clanak/zavrsio-je-rekordni-nba-niz-koji-ce-tesko-biti-nadmasen/2848888.aspx",
+      "published_utc": "2026-10-23T08:46:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Dinamo će ispasti iz Europe? Pogledajte projekcije",
+      "link": "https://www.index.hr/sport/clanak/dinamo-ce-ispasti-iz-europe-pogledajte-projekcije/2848883.aspx",
+      "published_utc": "2026-10-23T08:42:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Trump kaže da je Musk ukinuo ograničenja. Ukrajinski dronovi i dalje gube vezu",
+      "link": "https://www.index.hr/vijesti/clanak/trump-kaze-da-je-musk-ukinuo-ogranicenja-ukrajinski-dronovi-i-dalje-gube-vezu/2848876.aspx",
+      "published_utc": "2026-10-23T08:36:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Počelo uklanjanje 51 godinu starog vrtića u Dubravi. Novi će koštati 9.8 milijuna eura",
+      "link": "https://www.index.hr/vijesti/clanak/pocelo-uklanjanje-51-godinu-starog-vrtica-u-dubravi-novi-ce-kostati-98-milijuna-eura/2848881.aspx",
+      "published_utc": "2026-10-23T08:33:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Vesna Škare Ožbolt: DP vozi po rubu provalije",
+      "link": "https://n1info.hr/video/novi-dan/vesna-skare-ozbolt-dp-vozi-po-rubu-provalije/",
+      "published_utc": "2026-10-23T08:32:24+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "N1 komentar: DP traži smjenu svog državnog tajnika. Plenković najavio razgovore",
+      "link": "https://n1info.hr/n1-komentar/n1-komentar-dp-trazi-smjenu-svog-drzavnog-tajnika-plenkovic-najavio-razgovore/",
+      "published_utc": "2026-10-23T08:27:26+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Europski automobilski gigant gasi tisuće radnih mjesta",
+      "link": "https://n1info.hr/biznis/europski-automobilski-gigant-gasi-tisuce-radnih-mjesta/",
+      "published_utc": "2026-10-23T08:26:48+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "VIDEO / Snimljen ružičasti dupin! Znanstvenici još ne znaju zašto je takve boje",
+      "link": "https://n1info.hr/svijet/video-u-moru-kod-omana-snimljen-ruzicasti-dupin-znanstvenici-jos-ne-znaju-zasto-je-takve-boje/",
+      "published_utc": "2026-10-23T08:25:36+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Dario Bel sudit će utakmicu Dinamo - Rijeka",
+      "link": "https://www.index.hr/sport/clanak/dario-bel-sudit-ce-utakmicu-dinamo-rijeka/2848869.aspx",
+      "published_utc": "2026-10-23T08:22:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Hegseth htio Eisenhowerov globus u uredu. Njegovi ljudi ga oštetili",
+      "link": "https://www.index.hr/vijesti/clanak/hegseth-htio-eisenhowerov-globus-u-uredu-njegovi-ljudi-ga-ostetili/2848873.aspx",
+      "published_utc": "2026-10-23T08:17:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "FOTO HOS-ov mural u Rijeci zaliven crvenom bojom. Inicijativa preuzela odgovornost",
+      "link": "https://www.index.hr/vijesti/clanak/foto-hosov-mural-u-rijeci-zaliven-crvenom-bojom-inicijativa-preuzela-odgovornost/2848875.aspx",
+      "published_utc": "2026-10-23T08:14:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Englezi pišu o Hrgovićevoj borbi u Zagrebu. Direktor Arene: Naravno da podržavam to",
+      "link": "https://www.index.hr/sport/clanak/englezi-pisu-o-hrgovicevoj-borbi-u-zagrebu-direktor-arene-naravno-da-podrzavam-to/2848866.aspx",
+      "published_utc": "2026-10-23T08:14:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Škare Ožbolt: DP vozi po rubu provalije",
+      "link": "https://www.index.hr/vijesti/clanak/skare-ozbolt-dp-vozi-po-rubu-provalije/2848863.aspx",
+      "published_utc": "2026-10-23T08:06:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "FOTO, VIDEO / Život na Tajvanu stao zbog supertajfuna",
+      "link": "https://n1info.hr/svijet/foto-video-zivot-na-tajvanu-stao-zbog-supertajfuna/",
+      "published_utc": "2026-10-23T08:04:20+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Ljubo Jurčić: Hrvatska treba uvesti obaveznu božićnicu od 400 eura",
+      "link": "https://www.index.hr/vijesti/clanak/ljubo-jurcic-hrvatska-treba-uvesti-obaveznu-bozicnicu-od-400-eura/2848861.aspx",
+      "published_utc": "2026-10-23T08:04:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Jedete kasno navečer? To može povećati rizik od bolesti jetre",
+      "link": "https://www.index.hr/vijesti/clanak/jedete-kasno-navecer-to-moze-povecati-rizik-od-bolesti-jetre/2848865.aspx",
+      "published_utc": "2026-10-23T08:01:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Kako je skončao najpoznatiji izdajnik u povijesti?",
+      "link": "https://www.index.hr/vijesti/clanak/kako-je-skoncao-najpoznatiji-izdajnik-u-povijesti/2723277.aspx",
+      "published_utc": "2026-10-23T08:00:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "VIDEO Život na Tajvanu stao zbog tajfuna. Otkazano gotovo 1000 letova",
+      "link": "https://www.index.hr/vijesti/clanak/video-zivot-na-tajvanu-stao-zbog-tajfuna-otkazano-gotovo-1000-letova/2848860.aspx",
+      "published_utc": "2026-10-23T07:51:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Još jedna europska država zabranila društvene mreže mlađima od 15",
+      "link": "https://n1info.hr/svijet/jos-jedna-europska-drzava-zabranila-drustvene-mreze-mladjima-od-15/",
+      "published_utc": "2026-10-23T07:48:38+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Pitali smo vas treba li Kovačević dobiti otkaz. Ovo su rezultati",
+      "link": "https://www.index.hr/sport/clanak/pitali-smo-vas-treba-li-kovacevic-dobiti-otkaz-ovo-su-rezultati/2848858.aspx",
+      "published_utc": "2026-10-23T07:48:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "U Mliječnoj stazi otkriven misteriozni izvor radiovalova. Mogao bi skrivati crnu rupu",
+      "link": "https://www.index.hr/vijesti/clanak/u-mlijecnoj-stazi-otkriven-misteriozni-izvor-radiovalova-mogao-bi-skrivati-crnu-rupu/2848832.aspx",
+      "published_utc": "2026-10-23T07:46:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Vučković: Zna se tko je nadležan za otpad u Ježdovcu",
+      "link": "https://www.index.hr/vijesti/clanak/vuckovic-zna-se-tko-je-nadlezan-za-otpad-u-zagrebu/2848859.aspx",
+      "published_utc": "2026-10-23T07:43:00+00:00"
+    },
+    {
+      "source": "Index.hr",
+      "title": "Uhićena 82-godišnja demokratkinja iz Virginije. Prodavala je travu i prala novac",
+      "link": "https://www.index.hr/vijesti/clanak/uhicena-82godisnja-senatorica-iz-virginije-prodavala-je-travu-i-prala-novac/2848856.aspx",
+      "published_utc": "2026-10-23T07:43:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Vesna Škare Ožbolt: DP vozi po rubu provalije",
+      "link": "https://n1info.hr/vijesti/vesna-skare-ozbolt-hdz-dp-plenkovic-koalicija-kriza-23-10-2026/",
+      "published_utc": "2026-10-23T07:40:26+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Evo tko vam je bio najbolji, a tko najgori u porazu Dinama",
+      "link": "https://www.index.hr/sport/clanak/evo-tko-vam-je-bio-najbolji-a-tko-najgori-u-porazu-dinama/2848857.aspx",
+      "published_utc": "2026-10-23T07:39:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "FOTO / Švicarci oduševljeni Torcidom: \"Kao da je Hajduk bio domaćin\"",
+      "link": "https://n1info.hr/sport-klub/nogomet/foto-svicarci-odusevljeni-torcidom-kao-da-je-hajduk-bio-domacin/",
+      "published_utc": "2026-10-23T07:29:35+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Vučković: Zbog ovog nećete vidjeti pressice Benčić, Radojčić, Grmoje... Bez greške se zna tko je tu nadležan",
+      "link": "https://n1info.hr/vijesti/vuckovic-zbog-ovog-necete-vidjeti-pressice-bencic-radojcic-grmoje-bez-greske-se-zna-tko-je-tu-nadlezan/",
+      "published_utc": "2026-10-23T07:24:34+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Hajduk se nakon pobjede nad Thunom ne vraća u Split. Evo gdje će biti do ponedjeljka",
+      "link": "https://www.index.hr/sport/clanak/hajduk-se-nakon-pobjede-nad-thunom-ne-vraca-u-split-evo-gdje-ce-biti-do-ponedjeljka/2848851.aspx",
+      "published_utc": "2026-10-23T07:22:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "U nedjelju počinje zimsko računanje vremena",
+      "link": "https://n1info.hr/vijesti/u-nedjelju-pocinje-zimsko-racunanje-vremena2/",
+      "published_utc": "2026-10-23T07:15:15+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Bahatost ili samouvjerenost? Yamal već priprema proslavu za Zlatnu loptu",
+      "link": "https://www.index.hr/sport/clanak/bahatost-ili-samouvjerenost-yamal-vec-priprema-proslavu-za-zlatnu-loptu/2848841.aspx",
+      "published_utc": "2026-10-23T07:12:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Afera trese Novi Zeland. Šef oružanih snaga podnio ostavku: \"Pogriješio sam i preuzimam odgovornost\"",
+      "link": "https://n1info.hr/svijet/afera-potresla-novi-zeland-sef-oruzanih-snaga-podnio-ostavku/",
+      "published_utc": "2026-10-23T07:06:04+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Na koga se naljutio Zvonimir Boban?",
+      "link": "https://www.index.hr/sport/clanak/na-koga-se-naljutio-zvonimir-boban/2848839.aspx",
+      "published_utc": "2026-10-23T07:03:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Policija objavila fotografije četvorice muškaraca: Traže ih zbog incidenata u Splitu",
+      "link": "https://n1info.hr/vijesti/policija-objavila-fotografije-cetvorice-muskaraca-traze-ih-zbog-incidenata-u-splitu/",
+      "published_utc": "2026-10-23T07:00:59+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Udomite ljubimca s invaliditetom: \"Ljubav ne zna za prepreke\"",
+      "link": "https://n1info.hr/magazin/ljubimci/udomite-ljubimca-s-invaliditetom-ljubav-ne-zna-za-prepreke/",
+      "published_utc": "2026-10-23T06:57:40+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Putin preko Trumpova izaslanika poslao poruku Melaniji, otkriveni detalji",
+      "link": "https://n1info.hr/svijet/putin-preko-trumpova-izaslanika-poslao-poruku-melaniji-otkriveni-detalji/",
+      "published_utc": "2026-10-23T06:50:38+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Preminuo je Asim Kurjak",
+      "link": "https://n1info.hr/vijesti/preminuo-je-asim-kurjak/",
+      "published_utc": "2026-10-23T06:47:08+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Portugalci o Belji: Messi i Kane su ugroženi",
+      "link": "https://www.index.hr/sport/clanak/portugalci-o-belji-messi-i-kane-su-ugrozeni/2848831.aspx",
+      "published_utc": "2026-10-23T06:45:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Jokić odigrao nezapamćeno slabu utakmicu, Denver izgubio",
+      "link": "https://www.index.hr/sport/clanak/jokic-odigrao-nezapamceno-slabu-utakmicu-denver-izgubio/2848834.aspx",
+      "published_utc": "2026-10-23T06:43:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "BiH dobija novi stoperski par? Jedan briljira u Hajduku, drugi igra za Srbiju",
+      "link": "https://www.index.hr/sport/clanak/bih-dobija-novi-stoperski-par-jedan-briljira-u-hajduku-drugi-igra-za-srbiju/2848822.aspx",
+      "published_utc": "2026-10-23T06:40:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "VIDEO / Pogledajte ludo slavlje u svlačionici Hajduka nakon pobjede u Švicarskoj",
+      "link": "https://n1info.hr/sport-klub/nogomet/video-pogledajte-ludo-slavlje-u-svlacionici-hajduka-nakon-pobjede-kod-thunan1/",
+      "published_utc": "2026-10-23T06:30:28+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Putin: Pregovori o Ukrajini moraju uključivati \"cjelokupnu arhitekturu europske sigurnosti\"",
+      "link": "https://n1info.hr/svijet/putin-pregovori-o-ukrajini-moraju-ukljucivati-cjelokupnu-arhitekturu-europske-sigurnosti/",
+      "published_utc": "2026-10-23T06:22:48+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "SDSS preskočio glasovanje o povjerenju Plenkovićevoj vladi, Pupovac dao neobično objašnjenje",
+      "link": "https://n1info.hr/vijesti/sdss-preskocio-glasovanje-o-povjerenju-plenkovicevoj-vladi-pupovac-kaze-zbog-nepaznje-23-10-2026/",
+      "published_utc": "2026-10-23T06:21:48+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Čudo od djeteta šokiralo je svijet i postalo jedno od najvećih sportaša u povijesti",
+      "link": "https://www.index.hr/sport/clanak/cudo-od-djeteta-sokiralo-je-svijet-i-postalo-jedno-od-najvecih-sportasa-u-povijesti/2722276.aspx",
+      "published_utc": "2026-10-23T06:20:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Kako su pobjeda Hajduka i poraz Dinama utjecali na hrvatski koeficijent?",
+      "link": "https://www.index.hr/sport/clanak/kako-su-pobjeda-hajduka-i-poraz-dinama-utjecali-na-hrvatski-koeficijent/2848816.aspx",
+      "published_utc": "2026-10-23T06:17:00+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Bušić: Pokazali smo da možemo Hrvatsku dići na noge, ako je potrebno, napravit ćemo to opet",
+      "link": "https://n1info.hr/vijesti/busic-pokazali-smo-da-mozemo-hrvatsku-dici-na-noge-ako-je-potrebno-napravit-cemo-to-opet/",
+      "published_utc": "2026-10-23T06:16:21+00:00"
+    },
+    {
+      "source": "N1 Hrvatska",
+      "title": "Jadranom se širi invazivna vrsta: \"Ne dirajte je, ima otrovne bodlje!\"",
+      "link": "https://n1info.hr/vijesti/vatrenjaca-u-jadranu-ne-dirajte-je-ima-otrovne-bodlje-23-10-2026/",
+      "published_utc": "2026-10-23T06:10:38+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Garcia: Ovo mi je možda najdraža pobjeda otkad sam u Hajduku. Ponosan sam na igrače",
+      "link": "https://www.index.hr/sport/clanak/garcia-ovo-mi-je-mozda-najdraza-pobjeda-otkad-sam-u-hajduku-ponosan-sam-na-igrace/2848800.aspx",
+      "published_utc": "2026-10-23T05:52:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Pogledajte slavlje iz svlačionice Hajduka. Jedan čovjek opet predvodi atmosferu",
+      "link": "https://www.index.hr/sport/clanak/pogledajte-slavlje-iz-svlacionice-hajduka-jedan-covjek-opet-predvodi-atmosferu/2848803.aspx",
+      "published_utc": "2026-10-23T05:45:00+00:00"
+    },
+    {
+      "source": "Index.hr Sport",
+      "title": "Hezonja odličan u povratničkom NBA debiju. Navijači ga proglasili najboljim igračem",
+      "link": "https://www.index.hr/sport/clanak/hezonja-odlican-u-povratnickom-nba-debiju-navijaci-ga-proglasili-najboljim-igracem/2848794.aspx",
+      "published_utc": "2026-10-23T05:26:00+00:00"
+    },
     {
       "source": "Google News HR",
       "title": "Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan - BBC",
@@ -5654,696 +6266,6 @@
       "title": "First iPhone Duo unboxing videos surface ahead of official reviews - AppleInsider",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWJJODFqamZxTkN0eXZfeDU1MDBXOVc0ZERSTWFSUy1uWHpVYzVMSnNBNldqRUhVQ2dZYjhIYW9wa21RWDVMQ3ZiQUhwa25acHQ2ZEM5WlBzUEpmVHUwTXVCbV9RUThCM1cwTG11UXBwZ3Nsdld4dlJJMVNQLXhTbThYWk5JeWRwTWpUREptQ25FYzNRaWhETnlMRTBDWllwZTRWN1JEMnFzeTVUTFE?oc=5",
       "published_utc": "2026-10-21T10:39:58+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Zašto je Barca kod PSG-a morala igrati u starim, kričavo narančastim dresovima?",
-      "link": "https://www.index.hr/sport/clanak/barcelona-kod-psga-morala-igrati-u-proslosezonskim-dresovima-uefa-zabranila-nove/2848083.aspx",
-      "published_utc": "2026-10-21T10:16:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Dinamo dijeli deset stipendija u čast pokojnog Nikole Pokrivača",
-      "link": "https://www.index.hr/sport/clanak/dinamo-dijeli-deset-stipendija-u-cast-pokojnog-nikole-pokrivaca/2848089.aspx",
-      "published_utc": "2026-10-21T10:15:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Broj zaposlenih u Hrvatskoj pada. Objavljeni novi podaci",
-      "link": "https://www.index.hr/vijesti/clanak/broj-zaposlenih-u-hrvatskoj-pada-objavljeni-novi-podaci/2848084.aspx",
-      "published_utc": "2026-10-21T10:11:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "FOTO Ovcu na Jadrolinijinom trajektu vezali za drvenu paletu",
-      "link": "https://www.index.hr/vijesti/clanak/foto-ovcu-na-jadrolinijinom-trajektu-vezali-za-drvenu-paletu/2848018.aspx",
-      "published_utc": "2026-10-21T10:11:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Vlada donijela važnu odluku za umirovljenike",
-      "link": "https://n1info.hr/vijesti/vlada-godisnji-dodatak-na-mirovinu-prosjecno-208-eura-osigurano-260-milijuna-eura/",
-      "published_utc": "2026-10-21T10:09:27+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Kimmich zbog smrti oca propušta Arsenal",
-      "link": "https://www.index.hr/sport/clanak/kimmich-zbog-smrti-oca-propusta-arsenal/2848086.aspx",
-      "published_utc": "2026-10-21T10:09:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Policija se oglasila o tučnjavi Boysa i Armade u Karlovcu: \"Spriječili smo ih\"",
-      "link": "https://www.index.hr/vijesti/clanak/policija-se-oglasila-o-tucnjavi-boysa-i-armade-u-karlovcu-sprijecili-smo-ih/2848085.aspx",
-      "published_utc": "2026-10-21T10:06:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "VIDEO Da je Musa menadžer i ima 100 mil. dolara izabrao bi ovu petoricu",
-      "link": "https://www.index.hr/sport/clanak/video-da-je-musa-menadzer-i-ima-100-mil-dolara-izabrao-bi-ovu-petoricu/2848078.aspx",
-      "published_utc": "2026-10-21T10:06:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "FOTO, VIDEO / Četvero mrtvih u ruskim napadima na Ukrajinu, na meti energetska postrojenja",
-      "link": "https://n1info.hr/svijet/foto-video-cetvero-poginulih-u-ruskim-napadima-na-ukrajinu-na-meti-energetska-postrojenja/",
-      "published_utc": "2026-10-21T10:05:52+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Penava priprema novi udar na Plenkovića: DP postavlja uvjete za podršku rebalansu?",
-      "link": "https://www.tportal.hr/vijesti/clanak/penava-priprema-novi-udar-na-plenkovica-dp-postavlja-uvjete-za-podrsku-rebalansu-20261021",
-      "published_utc": "2026-10-21T10:04:10+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Liječnički sindikat prijeti tužbama: \"Našem je strpljenju došao kraj\"",
-      "link": "https://www.index.hr/vijesti/clanak/lijecnicki-sindikat-prijeti-tuzbama-nasem-je-strpljenju-dosao-kraj/2848080.aspx",
-      "published_utc": "2026-10-21T10:04:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Veliki misterij oko hrvatskog reprezentativca: Legenda Bundeslige ispala iz momčadi, trener poslao jasnu poruku",
-      "link": "https://www.tportal.hr/sport/clanak/veliki-misterij-oko-hrvatskog-reprezentativca-legenda-bundeslige-ispala-iz-momcadi-trener-poslao-jasnu-poruku-20261021",
-      "published_utc": "2026-10-21T10:04:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "NIS prodan MOL-u: Ministar Mali otkrio detalje ključnog posla, okoristit će se i Srbija",
-      "link": "https://www.tportal.hr/biznis/clanak/nis-prodan-mol-u-ministar-mali-otkrio-detalje-kljucnog-posla-okoristit-ce-se-i-srbija-20261021",
-      "published_utc": "2026-10-21T10:03:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Prosječna plaća u Hrvatskoj 1543 eura. Dvije trećine ljudi zarađuju manje",
-      "link": "https://www.index.hr/vijesti/clanak/prosjecna-placa-u-hrvatskoj-1543-eura-dvije-trecine-ljudi-zaradjuju-manje/2848074.aspx",
-      "published_utc": "2026-10-21T10:02:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Poklanjamo ulaznice: Mathew Jonson i Charles Webster ovog petka stižu u Peti Kupe",
-      "link": "https://www.tportal.hr/showtime/clanak/poklanjamo-ulaznice-mathew-jonson-i-charles-webster-ovog-petka-stizu-u-peti-kupe-nagcl-20261021",
-      "published_utc": "2026-10-21T10:01:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Vlada odlučila koje trgovine smiju raditi na blagdan Svih svetih",
-      "link": "https://www.index.hr/vijesti/clanak/vlada-odlucila-koje-trgovine-smiju-raditi-na-blagdan-svih-svetih/2848077.aspx",
-      "published_utc": "2026-10-21T10:00:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Pijan udario djevojčicu autom pa nastavio piti. Dobio kaznu od 1390 eura",
-      "link": "https://www.index.hr/vijesti/clanak/pijan-udario-djevojcicu-autom-pa-nastavio-piti-dobio-kaznu-od-1390-eura/2848066.aspx",
-      "published_utc": "2026-10-21T09:57:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Petar Grašo o braku s Hanom: 'Funkcioniramo besprijekorno, živimo kao svakodnevni ljudi'",
-      "link": "https://www.tportal.hr/showtime/clanak/petar-graso-progovorio-o-braku-funkcioniramo-besprijekorno-zivimo-kao-svakodnevni-ljudi-foto-20261021",
-      "published_utc": "2026-10-21T09:56:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Musk priznao: Malo sam se zanio s DOGE-om",
-      "link": "https://www.tportal.hr/tehno/clanak/musk-priznao-malo-sam-se-zanio-s-doge-om-20261021",
-      "published_utc": "2026-10-21T09:56:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "VIDEO / Papa prvi put u papamobilu nakon operacije raka",
-      "link": "https://n1info.hr/svijet/video-papa-prvi-put-u-papamobilu-nakon-operacije-raka/",
-      "published_utc": "2026-10-21T09:55:19+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Nijemci: Kramarić se mora dokazati. Trener mu je poslao jasnu poruku",
-      "link": "https://www.index.hr/sport/clanak/nijemci-kramaric-se-mora-dokazati-trener-mu-je-poslao-jasnu-poruku/2848068.aspx",
-      "published_utc": "2026-10-21T09:54:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Jandroković na udaru SDP-a i Možemo: Spremaju potez zbog načina na koji vodi Sabor?",
-      "link": "https://www.tportal.hr/vijesti/clanak/jandrokovic-na-udaru-sdp-a-i-mozemo-spremaju-potez-zbog-nacina-na-koji-vodi-sjednice-sabora-20261021",
-      "published_utc": "2026-10-21T09:54:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Australskoj zastupnici nakon teškog napada amputirane obje noge: 'Dobra je vijest da je živa'",
-      "link": "https://www.tportal.hr/vijesti/clanak/australskoj-zastupnici-nakon-teskog-napada-amputirane-obje-noge-dobra-je-vijest-da-je-ziva-20261021",
-      "published_utc": "2026-10-21T09:53:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Bayernov kapetan otpao za derbi s Arsenalom, preminuo mu je otac",
-      "link": "https://www.tportal.hr/sport/clanak/tezak-udarac-za-bayern-na-dan-utakmice-s-arsenalom-kapetan-otpao-iz-kadra-20261021",
-      "published_utc": "2026-10-21T09:53:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "VIDEO LeBron navijaču Knicksa: Koji ku*ac govoriš?! Nisam sa Zapadne obale",
-      "link": "https://www.index.hr/sport/clanak/video-lebron-navijacu-knicksa-koji-kuac-govoris-nisam-sa-zapadne-obale/2848046.aspx",
-      "published_utc": "2026-10-21T09:50:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Burno u Saboru: \"Glavni negativac se ne da otjerati, ali ova je Vlada pala kad je dopustila da se truje Lika\"",
-      "link": "https://n1info.hr/vijesti/burno-u-saboru-glavni-negativac-se-ne-da-otjerati-ali-ova-je-vlada-pala-kad-je-dopustila-da-se-truje-lika/",
-      "published_utc": "2026-10-21T09:49:59+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "\"Baš me zanima tko će ljevici biti mandatar kad se budu dogovarali. Jakšić, Hajdaš Dončić, Miljanić ili Tomašević?\"",
-      "link": "https://n1info.hr/video/novi-dan/bas-me-zanima-tko-ce-ljevici-biti-mandatar-kad-se-budu-dogovarali-jaksic-hajdas-doncic-miljanic-ili-tomasevic/",
-      "published_utc": "2026-10-21T09:49:13+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Objavljeno koliko iznosi prosječna plaća: Koliko vi zarađujete?",
-      "link": "https://www.tportal.hr/vijesti/clanak/objavljeno-koliko-iznosi-prosjecna-placa-je-li-i-vasa-blizu-20261021",
-      "published_utc": "2026-10-21T09:49:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDlUUnJGVEg4YmlLM3lRTWgwMkJqMzdjNTFoSERfZWFpS1psWjVMeHJ4ODlUVlVlNXQ5SVU0czhpSzRQOXM5eGR2ZTFQSXpSTm5yMW1vMGEyNVYwOGpKR243YUNBY0NkSXlTd3EyUXlyYjlTUDdoNGJURVozZ3YwWVZJREU3cm1XRTVrY1o0YnV2NWk3XzVoZmhydHNJZWN1YmM2SUQ5WGUzSmlLS25ReWQ4eGpGM2VVOUZB?oc=5",
-      "published_utc": "2026-10-21T09:48:42+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Hrvatski sabor dobio najmlađeg potpredsjednika u svojoj povijesti",
-      "link": "https://www.index.hr/vijesti/clanak/hrvatski-sabor-dobio-najmladjeg-potpredsjednika-u-svojoj-povijesti/2848071.aspx",
-      "published_utc": "2026-10-21T09:46:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Turudićevo izvješće dobilo potporu većine u Saboru, evo što pokazuje",
-      "link": "https://www.tportal.hr/vijesti/clanak/turudicevo-izvjesce-dobilo-potporu-vecine-u-saboru-evo-sto-pokazuje-20261021",
-      "published_utc": "2026-10-21T09:45:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "HDZ objavio snimku konjskog gnoja na Hipodromu: \"Cijeli kvart se guši u smradu\"",
-      "link": "https://n1info.hr/vijesti/hdz-objavio-snimku-konjskog-gnoja-na-hipodromu-cijeli-kvart-se-gusi-u-smradu/",
-      "published_utc": "2026-10-21T09:43:04+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Srušio se francuski borbeni zrakoplov, najmanje jedna osoba poginula",
-      "link": "https://www.tportal.hr/vijesti/clanak/srusio-se-francuski-borbeni-zrakoplov-najmanje-jedna-osoba-poginula-20261021",
-      "published_utc": "2026-10-21T09:43:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Sindikati ZET-a upozorili Upravu na loše uvjete rada i kroničan nedostatak radnika",
-      "link": "https://n1info.hr/vijesti/sindikati-zet-a-upozorili-upravu-na-lose-uvjete-rada-i-kronican-nedostatak-radnika/",
-      "published_utc": "2026-10-21T09:42:58+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Vlada popustila: 15.000 apartmana bez čistih papira moći će raditi još 4 godine",
-      "link": "https://www.index.hr/vijesti/clanak/vlada-popustila-15000-apartmana-bez-cistih-papira-moci-ce-raditi-jos-4-godine/2848072.aspx",
-      "published_utc": "2026-10-21T09:42:26+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Marta Kos otkrila kada bi Crna Gora mogla u EU, ali poslala i upozorenje zbog Hrvatske",
-      "link": "https://www.tportal.hr/vijesti/clanak/europska-povjerenica-crnoj-gori-ucinili-ste-gotovo-sve-nedostaje-nam-jos-malo-20261021",
-      "published_utc": "2026-10-21T09:41:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Katastrofalne vijesti za Barcelonu pred El Clasico: U pitanju je Dani Olmo",
-      "link": "https://www.tportal.hr/sport/clanak/katastrofalne-vijesti-za-barcelonu-pred-el-clasico-u-pitanju-je-dani-olmo-20261021",
-      "published_utc": "2026-10-21T09:41:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbGIwR05DVVIyeUpob1RwSWFnX1QxRXRXR1l3LXJ5M2o5OXR0T2JLTDNIU0xHa1lHRFhmUzB0UE9LY25NNmRkRVcwNUVpZ2VLUjFlU1p3eWhqUi1RV2hROFNnNE1zTVdVN2l2R3FLRk9aTlYtbVJKN0VR?oc=5",
-      "published_utc": "2026-10-21T09:38:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Treći uzastopni mandat: Željana Zovko ponovno potpredsjednica Kluba EPP-a",
-      "link": "https://n1info.hr/svijet/treci-uzastopni-mandat-zeljana-zovko-ponovno-potpredsjednica-kluba-epp-a/",
-      "published_utc": "2026-10-21T09:35:22+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Poljski parlament izglasao ublažavanje zakona o pobačaju, očekuje se potez predsjednika",
-      "link": "https://www.tportal.hr/vijesti/clanak/poljski-parlament-izglasao-ublazavanje-zakona-o-pobacaju-ocekuje-se-potez-predsjednika-20261021",
-      "published_utc": "2026-10-21T09:35:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Ovo je novi šef HRT-a",
-      "link": "https://www.index.hr/vijesti/clanak/ovo-je-novi-sef-hrta/2848067.aspx",
-      "published_utc": "2026-10-21T09:34:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "UN pokreće inicijativu za ograničavanje korištenja AI-ja u vojne svrhe",
-      "link": "https://www.tportal.hr/tehno/clanak/un-pokrece-inicijativu-za-ogranicavanje-koristenja-ai-ja-u-vojne-svrhe-20261021",
-      "published_utc": "2026-10-21T09:34:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "HDZ-ovka treći put zaredom izabrana za potpredsjednicu Kluba zastupnika EPP-a",
-      "link": "https://www.index.hr/vijesti/clanak/hdzovka-treci-put-zaredom-izabrana-za-potpredsjednicu-kluba-zastupnika-eppa/2848064.aspx",
-      "published_utc": "2026-10-21T09:33:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Igračima Stuttgarta zabranili dolaske na trening s Ferrarijima, ali Mercedes i Porsche se preporučuju",
-      "link": "https://www.tportal.hr/sport/clanak/igracima-stuttgarta-zabranili-dolaske-na-trening-s-ferrarijima-ali-mercedes-i-porsche-se-preporucuju-20261021",
-      "published_utc": "2026-10-21T09:32:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Modna industrija godinama ih je ignorirala, a sada shvaća da upravo oni imaju novac",
-      "link": "https://www.tportal.hr/lifestyle/clanak/modna-industrija-godinama-ih-je-ignorirala-a-sada-shvaca-da-upravo-oni-imaju-novac-20261021",
-      "published_utc": "2026-10-21T09:32:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Najmlađi potpredsjednik Sabora ima 30 godina: Ovo je politički put Armina Hodžića",
-      "link": "https://www.tportal.hr/vijesti/clanak/najmladi-potpredsjednik-sabora-ima-30-godina-ovo-je-politicki-put-armina-hodzica-foto-20261021",
-      "published_utc": "2026-10-21T09:31:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "N1 komentar: Nije prvi put da Domovinski pokret ide protiv svog snažnijeg koalicijskog partnera",
-      "link": "https://n1info.hr/n1-komentar/n1-komentar-nije-prvi-put-da-domovinski-pokret-ide-protiv-svog-snaznijeg-koalicijskog-partnera/",
-      "published_utc": "2026-10-21T09:29:29+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "PSG ostao bez Kvaratskhelije do kraja sezone",
-      "link": "https://www.index.hr/sport/clanak/psg-ostao-bez-kvaratskhelije-do-kraja-sezone/2848058.aspx",
-      "published_utc": "2026-10-21T09:29:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Uhićeni bugarski prevaranti: Lažni liječnici starijim ženama izvukli desetke tisuća eura i zlato",
-      "link": "https://n1info.hr/crna-kronika/uhiceni-bugarski-prevaranti-lazni-lijecnici-starijim-zenama-izvukli-desetke-tisuca-eura-i-zlato/",
-      "published_utc": "2026-10-21T09:27:20+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Rusija oslobodila Amerikanca (74) nakon više od četiri godine zatočeništva",
-      "link": "https://www.index.hr/vijesti/clanak/rusija-oslobodila-amerikanca-74-nakon-vise-od-cetiri-godine-zatocenistva/2848054.aspx",
-      "published_utc": "2026-10-21T09:27:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Poljska izglasala blaže zakone o pobačaju",
-      "link": "https://www.index.hr/vijesti/clanak/poljska-izglasala-blaze-zakone-o-pobacaju/2848060.aspx",
-      "published_utc": "2026-10-21T09:26:00+00:00"
-    },
-    {
-      "source": "Tportal",
-      "title": "Odbor za poljoprivredu traži dodatne analize ličkih proizvoda: 'Građani imaju pravo znati'",
-      "link": "https://www.tportal.hr/vijesti/clanak/odbor-za-poljoprivredu-trazi-dodatne-analize-lickih-proizvoda-gradani-imaju-pravo-znati-20261021",
-      "published_utc": "2026-10-21T09:26:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Dražen Lalić se oglasio o Torcidi",
-      "link": "https://n1info.hr/video/novi-dan/drazen-lalic-se-oglasio-o-torcidi/",
-      "published_utc": "2026-10-21T09:22:39+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Znanstvenici: Jajnici nakon menopauze možda ne postaju neaktivni",
-      "link": "https://www.index.hr/vijesti/clanak/znanstvenici-jajnici-nakon-menopauze-mozda-ne-postaju-neaktivni/2848033.aspx",
-      "published_utc": "2026-10-21T09:21:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Kremlj odbija energetsko primirje s Ukrajinom: Treba nam mir, a ne primirje",
-      "link": "https://www.index.hr/vijesti/clanak/kremlj-odbija-energetsko-primirje-s-ukrajinom-treba-nam-mir-a-ne-primirje/2848057.aspx",
-      "published_utc": "2026-10-21T09:20:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Napad automobilom pred uredom: Australska zastupnica ostala bez obje noge",
-      "link": "https://n1info.hr/svijet/napad-automobilom-pred-uredom-australska-zastupnica-ostala-bez-obje-noge/",
-      "published_utc": "2026-10-21T09:18:48+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Tko je Liverpoolov wonderkid? Stigao je iz Chelseaja, a sada ruši Owenove rekorde",
-      "link": "https://www.index.hr/sport/clanak/tko-je-rio-ngumoha-liverpoolovo-cudo-od-djeteta-rusi-owenove-rekorde/2848023.aspx",
-      "published_utc": "2026-10-21T09:13:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "FOTO Papa Lav prvi put u javnosti nakon operacije raka pluća",
-      "link": "https://www.index.hr/vijesti/clanak/foto-papa-lav-prvi-put-u-javnosti-nakon-operacije-raka-pluca/2848039.aspx",
-      "published_utc": "2026-10-21T09:12:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Kos: Crna Gora u finalu povijesne utakmice za EU članstvo, ali mora se dogovoriti s Hrvatskom",
-      "link": "https://n1info.hr/regija/kos-crna-gora-u-finalu-povijesne-utakmice-za-eu-clanstvo-ali-mora-se-dogovoriti-s-hrvatskom/",
-      "published_utc": "2026-10-21T09:11:47+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Russia frees 74-year-old US man after plea from Trump - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUJpOE5OMUs1S2VFa2FKZGNmTktfRXNxTThCUkRLVVpZWVdlb0tUTGhGeVVYR2VmZGdRREY4TFV0dzQ5alNyaG13Y1E3Q3NnbWhjRERXeEVVX3dnRU5KNGNWcDVnVVhtMlpITXdXQUV2YWlwV1Atd0xLYTRZMVhSSEdCUFFXU0VaRjFzdmZibEpLQQ?oc=5",
-      "published_utc": "2026-10-21T09:08:41+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Pao SDP-ov prijedlog za opoziv Plenkovića",
-      "link": "https://n1info.hr/vijesti/pao-sdp-ov-prijedlog-za-opoziv-plenkovica/",
-      "published_utc": "2026-10-21T09:08:35+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Propao pokušaj rušenja Plenkovićeve vlade zbog Gospića",
-      "link": "https://www.index.hr/vijesti/clanak/propao-sdpov-pokusaj-rusenja-plenkoviceve-vlade/2848047.aspx",
-      "published_utc": "2026-10-21T09:08:08+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Uhićenja u Srbiji. Vučićev tabloid: Planirali nerede, imaju hrvatske putovnice",
-      "link": "https://www.index.hr/vijesti/clanak/uhicenja-u-srbiji-vucicev-tabloid-planirali-nerede-imaju-hrvatske-putovnice/2848042.aspx",
-      "published_utc": "2026-10-21T09:08:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "FOTO / Zagrepčanin za kovanicu od dva eura traži 4000: \"Nude mi zlato i aute, ali ne spuštam cijenu\"",
-      "link": "https://n1info.hr/vijesti/foto-zagrepcanin-za-kovanicu-od-dva-eura-trazi-4000-nude-mi-zlato-i-aute-ali-ne-spustam-cijenu/",
-      "published_utc": "2026-10-21T09:07:23+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Jajnici nakon menopauze prolaze kroz velike promjene, znanstvenici otkrili što se događa tijekom starenja",
-      "link": "https://n1info.hr/zdravlje/jajnici-nakon-menopauze-prolaze-kroz-velike-promjene-znanstvenici-otkrili-sto-se-dogadja-tijekom-starenja/",
-      "published_utc": "2026-10-21T09:06:49+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVN3ampseWl6Q0F6T1AwVWJyS1dXUFdJOU94UTJsLVE4emI1MVJuMV9TWGZQUElyck1INXAxSTh1XzNweXpremFFU2xNdlJETTcyMW5iZHNvOTdmdGpITmNhMm5HTmtvMEhCcWplclEyTTd3NXdubnFEeVBSZmVUeDB5S3RxZw?oc=5",
-      "published_utc": "2026-10-21T09:03:22+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "U Gospiću traže dodatne analize hrane zbog zabrinutosti oko ilegalnog otpada",
-      "link": "https://www.index.hr/vijesti/clanak/u-gospicu-traze-dodatne-analize-hrane-zbog-zabrinutosti-oko-ilegalnog-otpada/2848028.aspx",
-      "published_utc": "2026-10-21T09:01:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Tudor je opet blizu povratka u Serie A?",
-      "link": "https://www.index.hr/sport/clanak/tudor-je-opet-blizu-povratka-u-serie-a/2848037.aspx",
-      "published_utc": "2026-10-21T08:59:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Evo koliko Kovač zarađuje u Borussiji. Otkriveni i ogromni bonusi",
-      "link": "https://www.index.hr/sport/clanak/evo-koliko-kovac-zaradjuje-u-borussiji-otkriveni-i-ogromni-bonusi/2848032.aspx",
-      "published_utc": "2026-10-21T08:58:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Vlasnik Manchester Cityja mogao bi biti prisiljen prodati klub: \"Imamo ovlasti to provesti\"",
-      "link": "https://n1info.hr/sport-klub/nogomet/vlasnik-manchester-cityja-mogao-bi-biti-prisiljen-prodati-klub-imamo-ovlasti-to-provesti/",
-      "published_utc": "2026-10-21T08:57:13+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Umirovljeni vojnik pretučen u BiH. Napadnut zbog majice s oznakama HVO-a?",
-      "link": "https://n1info.hr/regija/umirovljeni-vojnik-pretucen-u-bih-napadnut-zbog-majice-s-oznakama-hvo-a/",
-      "published_utc": "2026-10-21T08:54:09+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "VIDEO Lutke u vojnim odorama i tenkovi. Ovako Rusija želi odgajati djecu",
-      "link": "https://www.index.hr/vijesti/clanak/video-lutke-u-vojnim-odorama-i-tenkovi-ovako-rusija-zeli-odgajati-djecu/2848030.aspx",
-      "published_utc": "2026-10-21T08:52:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Trumpov izaslanik sletio u Sankt Peterburg. Dočekao ga Putinov čovjek",
-      "link": "https://www.index.hr/vijesti/clanak/trumpov-izaslanik-sletio-u-sankt-peterburg-docekao-ga-putinov-covjek/2848031.aspx",
-      "published_utc": "2026-10-21T08:50:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Plenković objavio koliki će dodatak umirovljenici dobiti u prosincu",
-      "link": "https://n1info.hr/vijesti/vlada-danas-odlucuje-o-mirovinskom-dodatku-pred-ministrima-jos-niz-vaznih-odluka/",
-      "published_utc": "2026-10-21T08:49:32+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Poljski premijer: Vrijeme je da to kažemo otvoreno. Za cijene goriva kriv je Trump",
-      "link": "https://www.index.hr/vijesti/clanak/poljski-premijer-vrijeme-je-da-to-kazemo-otvoreno-za-cijene-goriva-kriv-je-trump/2848029.aspx",
-      "published_utc": "2026-10-21T08:48:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Australian MP loses both legs in vehicle attack as suspect appears in court - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0lXWElFTUhudDA1OGRwNDl3ZUZmR213azFaN3kxRVB5YXc4SzBMZnQ2ZlR0b0lRblV0ZGVuODBZZmQ0dWdPazlXMlZabnRlWlBaMlBuM2FRMHU4WXhIcUgxNU1xSGRLczBZLXNidEc3bHp6ZmNRTVpLa3lMZnNlbFlBdmRSblZCRVY5WFd6SGdHUTMzbkR0dUpBNlBnOUpBNE5kX0o4eUs1cTRaUHJ5QUlFUWdJZFZh0gG-AUFVX3lxTE9oSzk4bEhqY1ZBdzZrcjdVVEQzbVR0VVhCRmNPZEwzcG40UHR2SVlhZkVocDQ2dEN2Z1FTZlhkUXp0T2dCbTN5bVpZRmk4ancyMWxrMUhDa2dpc3dSR1J1d192UEc5NTg2YWVDV0tPamlSZDhfRjhOMUNBdkl0UXZkcXRyT1l6QjRzbGEwU19yNGhEQk9oNUNrNTJrd3ZpamdodXRmcTRtdjgtLTFZTzB3dXNXeXpBT05EX3F1MlE?oc=5",
-      "published_utc": "2026-10-21T08:44:56+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Na otkrivanju Armadina murala u Rijeci puštali pjesmu koja veliča ustaške zločine i ubijanje Srba",
-      "link": "https://n1info.hr/vijesti/na-otkrivanju-armadina-murala-u-rijeci-pustana-pjesma-koja-velica-ustaske-zlocine-i-ubijanje-srba/",
-      "published_utc": "2026-10-21T08:44:52+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Je li Bayern ovom objavom otkrio osvajača Zlatne lopte?",
-      "link": "https://www.index.hr/sport/clanak/je-li-bayern-ovom-objavom-otkrio-osvajaca-zlatne-lopte/2848020.aspx",
-      "published_utc": "2026-10-21T08:43:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Elon Musk confirms talks to merge Tesla and SpaceX - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE?oc=5",
-      "published_utc": "2026-10-21T08:42:49+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "\"Baš me zanima tko će ljevici biti mandatar kad se budu dogovarali. Jakšić, Hajdaš Dončić, Miljanić ili Tomašević?\"",
-      "link": "https://n1info.hr/vijesti/hrvoje-zekanovi-ljevica-desnica-koalicija-vladajuca-vecina-domovinski-pokret/",
-      "published_utc": "2026-10-21T08:37:41+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Maloljetnik provalio u kuću u Međimurju. Vlasnik ga zadržao do dolaska policije",
-      "link": "https://www.index.hr/vijesti/clanak/maloljetnik-provalio-u-kucu-u-medjimurju-vlasnik-ga-zadrzao-do-dolaska-policije/2848015.aspx",
-      "published_utc": "2026-10-21T08:34:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Vučić ili studenti: Što izbori u Srbiji znače za Dodika i Republiku Srpsku?",
-      "link": "https://n1info.hr/regija/vucic-ili-studenti-sto-izbori-u-srbiji-znace-za-dodika-i-republiku-srpsku/",
-      "published_utc": "2026-10-21T08:31:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Stuttgart uvodi stroga pravila. Zabrana luksuznih automobila i jači treninzi",
-      "link": "https://www.index.hr/sport/clanak/los-start-ima-bizarne-posljedice-za-igrace-stuttgarta-prijete-im-i-visoke-kazne/2848021.aspx",
-      "published_utc": "2026-10-21T08:30:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Veteran HVO-a brutalno pretučen u Novom Travniku. \"Smetala im je njegova majica\"",
-      "link": "https://www.index.hr/vijesti/clanak/veteran-hvoa-brutalno-pretucen-u-novom-travniku-smetala-im-je-njegova-majica/2848014.aspx",
-      "published_utc": "2026-10-21T08:28:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "EU želi ograničiti uvoz jeftine robe kako bi zaštitio europske tvrtke",
-      "link": "https://www.index.hr/vijesti/clanak/eu-zeli-ograniciti-uvoz-jeftine-robe-kako-bi-zastitio-europske-tvrtke/2848022.aspx",
-      "published_utc": "2026-10-21T08:28:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Uhićenja i pretresi u Srbiji: Policija istražuje navodni plan izazivanja nereda na izborni dan",
-      "link": "https://n1info.hr/regija/uhicenja-i-pretresi-u-srbiji-policija-istrazuje-navodni-plan-izazivanja-nereda-na-izborni-dan/",
-      "published_utc": "2026-10-21T08:24:04+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Firma iz Suhopolja oštećena za 1.4 milijuna eura",
-      "link": "https://www.index.hr/vijesti/clanak/firma-iz-suhopolja-ostecena-za-14-milijuna-eura/2848017.aspx",
-      "published_utc": "2026-10-21T08:24:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Šušnjar želi više hrvatskih proizvoda na kineskom tržištu, najavio nove poslovne prilike",
-      "link": "https://n1info.hr/biznis/susnjar-zeli-vise-hrvatskih-proizvoda-na-kineskom-trzistu-najavio-nove-poslovne-prilike/",
-      "published_utc": "2026-10-21T08:19:56+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Akcija u Novom Sadu, specijalci hapse ljude. \"Planirali su nerede na dan izbora\"",
-      "link": "https://www.index.hr/vijesti/clanak/akcija-u-novom-sadu-specijalci-hapse-ljude-planirali-su-nerede-na-dan-izbora/2848006.aspx",
-      "published_utc": "2026-10-21T08:17:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Na otvaranju Armadinog murala treštala pjesma koja veliča Jasenovac i klanje Srba",
-      "link": "https://www.index.hr/vijesti/clanak/video-na-otvaranju-armadinog-murala-u-rijeci-trestao-jasenovac-i-gradiska-stara/2848001.aspx",
-      "published_utc": "2026-10-21T08:17:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Bivši igrač Juventusa o krizi u klubu: Trebaju se zaključati u svlačionicu i potući",
-      "link": "https://www.index.hr/sport/clanak/bivsi-igrac-juventusa-o-krizi-u-klubu-trebaju-se-zakljucati-u-svlacionicu-i-potuci/2848011.aspx",
-      "published_utc": "2026-10-21T08:17:00+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Kos: Crna Gora mora riješiti probleme s Hrvatskom ako želi u EU",
-      "link": "https://www.index.hr/vijesti/clanak/kos-crna-gora-mora-rijesiti-probleme-s-hrvatskom-ako-zeli-u-eu/2848002.aspx",
-      "published_utc": "2026-10-21T08:16:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Djevojčici filter u bazenu povukao kosu. Prebacili je helikopterom u KBC Rijeka",
-      "link": "https://n1info.hr/vijesti/curici-filter-u-bazenu-povukao-kosu-prebacili-je-helikopterom-u-kbc-rijeka/",
-      "published_utc": "2026-10-21T08:10:44+00:00"
-    },
-    {
-      "source": "Index.hr",
-      "title": "Maloljetnica plivala u bazenu u Istri, filter joj povukao kosu. Reanimirali je",
-      "link": "https://www.index.hr/vijesti/clanak/maloljetnici-plivala-u-bazenu-u-istri-filter-joj-povukao-kosu-reanimirali-je/2848009.aspx",
-      "published_utc": "2026-10-21T08:09:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Gastronomska jesen nastavlja se uz Passion Week: \"Vrhunska gastronomija ne mora biti rezervirana samo za posebne prigode\"",
-      "link": "https://n1info.hr/magazin/lifestyle/gastronomska-jesen-nastavlja-se-uz-passion-week-vrhunska-gastronomija-ne-mora-biti-rezervirana-samo-za-posebne-prigode/",
-      "published_utc": "2026-10-21T08:08:25+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Olmo se ozlijedio protiv PSG-a. Španjolci otkrivaju loše vijesti",
-      "link": "https://www.index.hr/sport/clanak/olmo-se-ozlijedio-protiv-psga-spanjolci-otkrivaju-lose-vijesti/2848005.aspx",
-      "published_utc": "2026-10-21T08:08:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Pokazao sucu srednji prst i ostao bez kluba. Česi ga mijenjaju SHNL ikonom?",
-      "link": "https://www.index.hr/sport/clanak/pokazao-sucu-srednji-prst-i-ostao-bez-kluba-cesi-ga-mijenjaju-shnl-ikonom/2847960.aspx",
-      "published_utc": "2026-10-21T08:02:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Zečevi napravili kaos na groblju: Gradske vlasti kreću u akciju, a imaju originalnu ideju što će s njima",
-      "link": "https://n1info.hr/svijet/zecevi-napravili-kaos-na-groblju-gradske-vlasti-krecu-u-akciju-a-imaju-originalnu-ideju-sto-ce-s-njima/",
-      "published_utc": "2026-10-21T08:01:11+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "FOTO Košarkaš Knicksa iznenadio frizurom. Na glavi ima trofej NBA prvaka",
-      "link": "https://www.index.hr/sport/clanak/foto-o-ovoj-frizuri-nba-prvaka-prica-se-nakon-otvaranja-sezone/2847996.aspx",
-      "published_utc": "2026-10-21T07:47:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Kremlin warned Germany after Leipzig airport sabotage that it won’t be the last attack, WSJ reports - Meduza",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVhramt1dW9XU1lVVDJhZ3RDOXd4NXpKcHZGTHZCRHF5MU5Qa1hHd2YtWFNlWEhZVk85eXYxQWZiRzNJMS1FQm1TLTBrbEpJam9hbVROZWJiZ3U1UDg4TG85bWNCWXVOQWlwR29zNlhRVTF5cWllUm84NXM2dW92SlNrakozSVhHbEgxYVRJOTg0WUxkM0lNOUpoanB1cm1JLThPSU5CdHBxVVd2RWktUjUyQVZRdl9xdEtodWdTS1dCWDBJR0hGOUZETE5ZTTJr0gHWAUFVX3lxTE5pTXlmT202QVZ5Tjk0TGt3dUZtX1RwdXBsWUVPVDJRVXlsdjhYNld6QlMtVlZBeWpJQ2hMMGJVTjRKRTdOY25DbjdZZWpqMDZtZFBxVS1yUzBsS01HMU9PWVZTNFlWcDltT3BYTHp3NF9EVDYzY0xHT01YYl9Vem8xQmRJV0l4bm9CTFFqSWUzWkVOTmF4MHhRT1R4Z0ctVE9wbVZjTHd0VVJLRjM3bjhkYnFBOHVVRWxvdzBzX0x0QUFWcUQzXzR1M3ZlbDlrdVgtazhIaHc?oc=5",
-      "published_utc": "2026-10-21T07:45:00+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Srušio se francuski vojni avion, poginuo jedan član posade",
-      "link": "https://n1info.hr/svijet/srusio-se-francuski-vojni-avion-poginuo-jedan-clan-posade/",
-      "published_utc": "2026-10-21T07:41:55+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Izbori u Srbiji uživo na N1: Pratite izlaznost, rezultate i reakcije iz izbornih stožera",
-      "link": "https://n1info.hr/regija/izbori-u-srbiji-izlaznost-rezultati-i-reakcije/",
-      "published_utc": "2026-10-21T07:39:52+00:00"
-    },
-    {
-      "source": "N1 Hrvatska",
-      "title": "Oglasio se Dražen Lalić: Ovakva Torcida može krepat', Hajduk će ostat'",
-      "link": "https://n1info.hr/vijesti/-drazen-lalic-torcida-analiza-komentar/",
-      "published_utc": "2026-10-21T07:33:52+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Igrači Borussije nisu se htjeli tuširati na stadionu. Kovač objasnio odluku",
-      "link": "https://www.index.hr/sport/clanak/igraci-borussije-nisu-se-htjeli-tusirati-na-stadionu-kovac-objasno-odluku/2847981.aspx",
-      "published_utc": "2026-10-21T07:31:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "VIDEO Kaos u Rimu. Slovački huligani svladali policajce i krenuli na romaniste",
-      "link": "https://www.index.hr/sport/clanak/video-kaos-na-olimpicu-u-ligi-prvaka-slovacki-huligani-pokusali-probiti-ogradu/2847979.aspx",
-      "published_utc": "2026-10-21T07:29:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Bodybuilder (33) se srušio za vrijeme natjecanja i umro. Bio mu je rođendan",
-      "link": "https://www.index.hr/sport/clanak/bodybuilder-33-se-srusio-na-pozornici-i-umro-bio-mu-je-rodjendan/2847973.aspx",
-      "published_utc": "2026-10-21T07:19:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Ništa od spektakla Baturine protiv Manchester Uniteda? Oluja prijeti odgodom utakmice",
-      "link": "https://www.index.hr/sport/clanak/nista-od-spektakla-baturine-protiv-manchester-uniteda-oluja-prijeti-odgodom-utakmice/2847959.aspx",
-      "published_utc": "2026-10-21T06:57:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Enrique nakon 4:2 protiv Barce: Navijač sam Barcelone, ali sam profesionalac",
-      "link": "https://www.index.hr/sport/clanak/luis-enrique-nakon-42-protiv-barcelone-zamka-je-misliti-da-smo-najbolji/2847947.aspx",
-      "published_utc": "2026-10-21T06:34:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "North Korea tells border troops to take 'resolute action' if South threatens their safety - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
-      "published_utc": "2026-10-21T06:34:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Barcelona je zbog ove koreografije UEFA-i prijavila PSG",
-      "link": "https://www.index.hr/sport/clanak/barcelona-je-uefai-prijavila-psg-zbog-ove-koreografije/2847946.aspx",
-      "published_utc": "2026-10-21T06:29:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "Britain Approves Long-Stalled Gas Drilling Project in the North Sea - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sNkk0UGZlenNJb3lvai1aVmh2aFBmZmxpSDdRLXJJY2VpY1hSWHpCYjR1R0tSSUtRUXlyTG1hQU1rWGVJV203Z1N5eE4yTGxhZW41MkFSWndUQXp4b2ZxXy12Uk9RNnJaMmJoZFNjeVd3QU5jWGpzZm1VMm8?oc=5",
-      "published_utc": "2026-10-21T06:09:01+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Nijemci napali Kovača nakon što je jedva pobijedio Dambrauskasa. Odgovorio im je",
-      "link": "https://www.index.hr/sport/clanak/nijemci-napali-kovaca-nakon-sto-je-jedva-pobijedio-dambrauskasa-odgovorio-im-je/2847922.aspx",
-      "published_utc": "2026-10-21T06:03:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Oca su mu ubile ustaše, a on je postao jedan od najboljih hrvatskih tenisača ikada",
-      "link": "https://www.index.hr/sport/clanak/oca-su-mu-ubile-ustase-a-on-je-postao-jedan-od-najboljih-hrvatskih-tenisaca-ikada/2722229.aspx",
-      "published_utc": "2026-10-21T06:00:00+00:00"
-    },
-    {
-      "source": "Google News HR",
-      "title": "New-look 76ers flash glimpses of what could be against defending champion Knicks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY29mazlOcktnWW0zcDFGQnp6bklFdHdNY25lZFVnQ2ZEdEtDU0dLam1hTmpLZWk4d0ZUSWI4V1ZGZzU3dGFYcTVqSEtyOFBZbmFGV29OTTZUdE5vSExRazJiVFdhaXdnLVAxSVEtZTEyNUJQZkthQUpxTGZxVU45Z2VwTHRNQUR4eVFSaEZCcm01ajk1TTJUTGY1b2poRjI1WUlySzlfWUNwVWFXbFJ6N29VUUY2ZGRITW1rakM3MnVaX2tkdnJiaTJjZjU?oc=5",
-      "published_utc": "2026-10-21T05:56:00+00:00"
-    },
-    {
-      "source": "Index.hr Sport",
-      "title": "Imao je samo 24 godine kada je poginuo. Nikada nije zaboravljen",
-      "link": "https://www.index.hr/sport/clanak/imao-je-samo-24-godine-kada-je-poginuo-nikada-nije-zaboravljen/2657714.aspx",
-      "published_utc": "2026-10-21T05:40:00+00:00"
     }
   ]
 }
